@@ -1,0 +1,301 @@
+id	label	weight<Citations>	weight<References>	score<Pub. year>	description	url
+1	Muganyi (2021)	620	37	2021	Green finance, fintech and environmental protection: Evidence from China	https://doi.org/10.1016/j.ese.2021.100107
+2	Zhang (2022)	431	64	2022	Influence of digital finance and green technology innovation on China's carbon emission efficiency: Empirical analysis based on spatial metrology	https://doi.org/10.1016/j.scitotenv.2022.156463
+3	Tao (2021)	415	68	2021	Can Fintech development pave the way for a transition towards low-carbon economy: A global perspective	https://doi.org/10.1016/j.techfore.2021.121278
+4	Wang (2022)	327	69	2022	Can digital financial inclusion affect CO2 emissions of China at the prefecture level? Evidence from a spatial econometric approach	https://doi.org/10.1016/j.eneco.2022.105966
+5	Udeagha (2023)	265	81	2023	The drivers of environmental sustainability in BRICS economies: Do green finance and fintech matter?	https://doi.org/10.1016/j.wds.2023.100096
+6	Lee (2022)	261	76	2022	How does digital inclusive finance affect carbon intensity?	https://doi.org/10.1016/j.eap.2022.05.010
+7	Udeagha (2023)	235	66	2023	Green finance, fintech, and environmental sustainability: fresh policy insights from the BRICS nations	https://doi.org/10.1080/13504509.2023.2183526
+8	Li (2022)	234	77	2022	Digital finance and sustainable development: Evidence from environmental inequality in China	https://doi.org/10.1002/bse.3105
+9	Li (2023)	219	102	2023	Digital finance and the low-carbon energy transition (LCET) from the perspective of capital-biased technical progress	https://doi.org/10.1016/j.eneco.2023.106623
+10	Wang (2022)	193	84	2022	Impacts of digital inclusive finance on CO2 emissions from a spatial perspective: Evidence from 272 cities in China	https://doi.org/10.1016/j.jclepro.2022.131618
+11	Qin (2022)	167	43	2022	Digital finance and household carbon emissions in China	https://doi.org/10.1016/j.chieco.2022.101872
+12	Cheng (2023)	157	69	2023	How does fintech influence carbon emissions: Evidence from China's prefecture-level cities	https://doi.org/10.1016/j.irfa.2023.102655
+13	Udeagha (2023)	150	68	2023	Striving for the United Nations ( UN ) sustainable development goals ( SDGs ) in BRICS economies: The role of green finance, fintech, and natural resource rent	https://doi.org/10.1002/sd.2618
+14	Zhang (2022)	133	64	2022	Digital inclusive finance and consumption-based embodied carbon emissions: A dual perspective of consumption and industry upgrading	https://doi.org/10.1016/j.jenvman.2022.116632
+15	Wang (2024)	132	101	2024	The impact of Fintech on corporate carbon emissions: Towards green and sustainable development	https://doi.org/10.1002/bse.3778
+16	Yu (2022)	127	101	2022	Digital finance and renewable energy consumption: evidence from China	https://doi.org/10.1186/s40854-022-00362-5
+17	Bayram (2022)	125	39	2022	Can Fintech Promote Sustainable Finance? Policy Lessons from the Case of Turkey	https://doi.org/10.3390/su141912414
+18	Zhao (2023)	116	65	2023	Does digital inclusive finance affect urban carbon emission intensity: Evidence from 285 cities in China	https://doi.org/10.1016/j.cities.2023.104552
+19	Alzoubi (2023)	115	26	2023	Green blockchain – A move towards sustainability	https://doi.org/10.1016/j.jclepro.2023.139541
+20	Xu (2023)	111	20	2023	Analysis of the carbon emission reduction effect of Fintech and the transmission channel of green finance	https://doi.org/10.1016/j.frl.2023.104127
+21	Zhao (2021)	110	36	2021	How Does Digital Finance Affect Carbon Emissions? Evidence from an Emerging Market	https://doi.org/10.3390/su132112303
+22	Yu (2022)	110	38	2022	The impact of green digital finance on energy resources and climate change mitigation in carbon neutrality: Case of 60 economies	https://doi.org/10.1016/j.resourpol.2022.103116
+23	Pu (2022)	105	76	2022	The impact of digital finance on residential carbon emissions: Evidence from China	https://doi.org/10.1016/j.strueco.2022.07.006
+24	Shen (2023)	98	68	2023	Digital Financial Inclusion, Land Transfer, and Agricultural Green Total Factor Productivity	https://doi.org/10.3390/su15086436
+25	Sun (2023)	94	30	2023	Spatial impact of digital finance on carbon productivity	https://doi.org/10.1016/j.gsf.2023.101674
+26	Liu (2023)	92	67	2023	Can digital inclusive finance ensure food security while achieving low-carbon transformation in agricultural development? Evidence from China	https://doi.org/10.1016/j.jclepro.2023.138016
+27	Sun (2022)	91	71	2022	Impact of digital finance on energy-based carbon intensity: Evidence from mediating effects perspective	https://doi.org/10.1016/j.jenvman.2022.116832
+28	Tamasiga (2022)	83	55	2022	Unlocking the Green Economy in African Countries: An Integrated Framework of FinTech as an Enabler of the Transition to Sustainability	https://doi.org/10.3390/en15228658
+29	Lu (2023)	82	70	2023	Digital inclusive finance and energy transition towards carbon neutrality: Evidence from Chinese firms	https://doi.org/10.1016/j.eneco.2023.107059
+30	Chang (2022)	81	40	2022	The role of digital finance in reducing agricultural carbon emissions: evidence from China’s provincial panel data	https://doi.org/10.1007/s11356-022-21780-z
+31	Becha (2025)	81	144	2025	Digital financial inclusion, environmental sustainability and regional economic growth in China: insights from a panel threshold model	https://doi.org/10.1186/s40008-025-00347-4
+32	Khan (2023)	79	60	2023	Does digital financial inclusion affect CO2 emissions? Evidence from 76 emerging markets and developing economies (EMDE's)	https://doi.org/10.1016/j.jclepro.2023.138313
+33	Wang (2023)	76	13	2023	Research on the impact of digital inclusive finance on regional carbon emissions: Based on the sustainable green innovation of small and medium-sized enterprises	https://doi.org/10.1016/j.jclepro.2023.139513
+34	Wan (2022)	75	44	2022	The impact of digital finance on pollutants emission: evidence from chinese cities	https://doi.org/10.1007/s11356-021-18465-4
+35	Guo (2023)	75	60	2023	How does digital inclusive finance affect the ecological environment? Evidence from Chinese prefecture-level cities	https://doi.org/10.1016/j.jenvman.2023.118158
+36	Salman (2023)	73	38	2023	The effect of digital financial inclusion on the green economy: the case of Egypt	https://doi.org/10.1108/jed-05-2022-0087
+37	Addy (2024)	72	54	2024	DATA-DRIVEN SUSTAINABILITY: HOW FINTECH INNOVATIONS ARE SUPPORTING GREEN FINANCE	https://doi.org/10.51594/estj.v5i3.871
+38	Du (2022)	70	57	2022	Can FinTech improve corporate environmental, social, and governance performance?—A study based on the dual path of internal financing constraints and external fiscal incentives	https://doi.org/10.3389/fenvs.2022.1061454
+39	Yan (2022)	69	56	2022	Digital finance, environmental regulation and emission reduction in manufacturing industry: New evidence incorporating dynamic spatial-temporal correlation and competition	https://doi.org/10.1016/j.iref.2022.10.025
+40	Alshdaifat (2024)	68	90	2024	The Role of Digital Technologies in Corporate Sustainability: A Bibliometric Review and Future Research Agenda	https://doi.org/10.3390/jrfm17110509
+41	Song (2023)	66	59	2023	Digital finance, technological innovation, and carbon dioxide emissions	https://doi.org/10.1016/j.eap.2023.09.005
+42	Xue (2022)	64	11	2022	Can Digital Financial Inclusion Promote Green Innovation in Heavily Polluting Companies?	https://doi.org/10.3390/ijerph19127323
+43	Wang (2022)	60	37	2022	Nexus among digital inclusive finance and carbon neutrality: Evidence from company-level panel data analysis	https://doi.org/10.1016/j.resourpol.2022.103201
+44	Cheng (2024)	59	71	2024	Digital financial inclusion, resident consumption, and urban carbon emissions in China: A transaction cost perspective	https://doi.org/10.1016/j.eap.2024.02.021
+45	Zhong (2022)	59	61	2022	Does the digital finance revolution validate the Environmental Kuznets Curve? Empirical findings from China	https://doi.org/10.1371/journal.pone.0257498
+46	Elias (2024)	57	60	2024	The evolution of green fintech: Leveraging AI and IoT for sustainable financial services and smart contract implementation	https://doi.org/10.30574/wjarr.2024.23.1.2272
+47	Xue (2022)	56	49	2022	Impact of Digital Finance on Regional Carbon Emissions: An Empirical Study of Sustainable Development in China	https://doi.org/10.3390/su14148340
+48	Firdousi (2023)	55	128	2023	Nexus between FinTech, renewable energy resource consumption, and carbon emissions	https://doi.org/10.1007/s11356-023-28219-z
+49	Liu (2024)	54	43	2024	Can financial agglomeration curb carbon emissions reduction from agricultural sector in China? Analyzing the role of industrial structure and digital finance	https://doi.org/10.1016/j.jclepro.2024.140862
+50	Ding (2022)	53	105	2022	Can the development of digital financial inclusion curb carbon emissions? Empirical test from spatial perspective	https://doi.org/10.3389/fenvs.2022.1045878
+51	Li (2023)	53	105	2023	FinTech and sustainable financing for low carbon energy transitions: A biodiversity and natural resource perspective in BRICS economies	https://doi.org/10.1016/j.resourpol.2023.104486
+52	Ansari (2024)	52	90	2024	Unveiling the effect of renewable energy and financial inclusion towards sustainable environment: Does interaction of digital finance and institutional quality matter?	https://doi.org/10.1016/j.sftr.2024.100196
+53	Hu (2023)	51	57	2023	How does green finance influence industrial green total factor productivity? Empirical research from China	https://doi.org/10.1016/j.egyr.2023.12.056
+54	Liu (2023)	51	74	2023	FinTech and Green Credit Development—Evidence from China	https://doi.org/10.3390/su15075903
+55	Zeng (2024)	50	46	2024	Relationship between natural resources, economic growth, and carbon emissions: The role of fintech, information technology and corruption to achieve the targets of COP-27	https://doi.org/10.1016/j.resourpol.2024.104751
+56	Wu (2023)	50	43	2023	What role does digital finance play in low-carbon development? Evidence from five major urban agglomerations in China	https://doi.org/10.1016/j.jenvman.2023.118060
+57	Xuan (2023)	48	56	2023	Exploring digital finance, financial regulations and carbon emission nexus: New insight from resources efficiency, industrial structure and green innovation in China	https://doi.org/10.1016/j.resourpol.2023.104452
+58	Lu (2023)	48	48	2023	Does digital finance development affect carbon emission intensity: Evidence from China	https://doi.org/10.1016/j.iref.2023.07.036
+59	Teng (2023)	48	65	2023	The impact of fintech on carbon efficiency: Evidence from Chinese cities	https://doi.org/10.1016/j.jclepro.2023.138984
+60	Huang (2024)	47	49	2024	Obscuring effect of income inequality and moderating role of financial literacy in the relationship between digital finance and China's household carbon emissions	https://doi.org/10.1016/j.jenvman.2023.119927
+61	Chu (2023)	45	67	2023	Does the development of digital finance curb carbon emissions? Evidence from county data in China	https://doi.org/10.1007/s11356-023-25659-5
+62	Delina (2023)	45	44	2023	Fintech RE in a global finance centre: Expert perceptions of the benefits of and challenges to digital financing of distributed and decentralised renewables in Hong Kong	https://doi.org/10.1016/j.erss.2023.102997
+63	Amaliah (2024)	45	67	2024	Does digital financial inclusion forecast sustainable economic growth? Evidence from an emerging economy	https://doi.org/10.1016/j.joitmc.2024.100262
+64	Shi (2024)	44	73	2024	Study on the impact of green digital finance on low-carbon transition of energy consumption structure under multidimensional perspective-empirical evidence from China	https://doi.org/10.1016/j.esr.2024.101445
+65	Kakar (2024)	44	75	2024	Exploring the impact of industrialization and electricity use on carbon emissions: The role of green FinTech in Asian countries using an asymmetric panel quantile ARDL approach	https://doi.org/10.1016/j.jenvman.2024.122970
+66	Offiong (2025)	43	47	2025	FinTech Innovations for Sustainable Development: A Comprehensive Literature Review and Future Directions	https://doi.org/10.1002/sd.70068
+67	Yang (2025)	42	63	2025	Towards more inclusive finance: Exploring the mystery of low carbon green technological innovation	https://doi.org/10.1016/j.ribaf.2025.102991
+68	Bu (2024)	41	112	2024	The impact of digital inclusive finance on the collaborative reduction of pollutant and carbon emissions: spatial spillover and mechanism analysis	https://doi.org/10.1016/j.jenvman.2024.121550
+69	Liu (2025)	40	78	2025	Whether fintech, natural resources, green finance and environmental tax affect CO2 emissions in China? A step towards green initiatives	https://doi.org/10.1016/j.energy.2025.135181
+70	Pata (2024)	39	61	2024	Discovering the sustainable development role of fintech credit and the pilot low carbon project on greenwashing in China	https://doi.org/10.1007/s10668-024-04919-5
+71	Liu (2023)	39	32	2023	The Impact of Digital Financial Inclusion on Green and Low-Carbon Agricultural Development	https://doi.org/10.3390/agriculture13091748
+72	Xie (2022)	38	78	2022	Toward Carbon Peaking and Neutralization: The Heterogeneous Stochastic Convergence of Co2 Emissions and the Role of Digital Inclusive Finance	https://doi.org/10.1016/j.eneco.2023.106841
+73	Naseem (2023)	38	55	2023	The impact of financial innovation, green energy, and economic growth on transport-based CO2 emissions in India: insights from QARDL approach	https://doi.org/10.1007/s10668-023-03843-4
+74	Xiao (2023)	38	29	2023	The Impact of Digital Inclusive Finance on Agricultural Green Total Factor Productivity: A Study Based on China’s Provinces	https://doi.org/10.3390/su15021192
+75	Ahmad (2025)	38	112	2025	A Detailed Comprehensive Role of Digital Technologies in Green Finance Initiative for Net‐Zero Energy Transition	https://doi.org/10.1002/aesr.202500066
+76	Qingmin (2024)	38	74	2024	Towards sustainable development: Can green digital finance become an accelerator for reducing pollution and carbon emissions in China?	https://doi.org/10.1016/j.scs.2024.105722
+77	Wu (2024)	37	50	2024	From bits to emissions: how FinTech benefits climate resilience?	https://doi.org/10.1007/s00181-024-02609-9
+78	Guo (2024)	37	84	2024	Fintech, green imports, technology, and FDI inflow: their role in CO2 emissions reduction and the path to COP26: a comparative analysis of China	https://doi.org/10.1007/s11356-023-31732-w
+79	Yang (2022)	37	59	2022	Can digital finance reduce carbon emission intensity? A perspective based on factor allocation distortions: evidence from Chinese cities	https://doi.org/10.1007/s11356-022-24748-1
+80	Wang (2023)	36	54	2023	Digital inclusive finance, higher education expansion and regional carbon emissions: Evidence from China	https://doi.org/10.1016/j.iref.2023.08.009
+81	Dar (2024)	35	85	2024	Investigating the role of Fintech innovations and green finance toward sustainable economic development: a bibliometric analysis	https://doi.org/10.1108/imefm-01-2024-0018
+82	Zhuang (2022)	35	53	2022	Digital Finance and Green Development: Characteristics, Mechanisms, and Empirical Evidences	https://doi.org/10.3390/ijerph192416940
+83	Lu (2024)	35	40	2024	Digital inclusive finance, green technological innovation, and carbon emissions from a spatial perspective	https://doi.org/10.1038/s41598-024-59081-9
+84	Wen (2022)	35	34	2022	Can digital finance reduce industrial pollution? New evidence from 260 cities in China	https://doi.org/10.1371/journal.pone.0266564
+85	ZHANG (2025)	34	71	2025	The impact of digital inclusive finance on agricultural carbon emissions at the city level in China: The role of rural entrepreneurship and agricultural innovation	https://doi.org/10.1016/j.jclepro.2025.145469
+86	Yang (2024)	34	71	2024	Digital finance, natural resource constraints and firms' low-carbon behavior: Evidence from listed companies	https://doi.org/10.1016/j.resourpol.2024.104637
+87	Alsedrah (2024)	33	62	2024	Fintech and green finance revolutionizing carbon emission reduction through green energy projects in mineral-rich countries	https://doi.org/10.1016/j.resourpol.2024.105064
+88	He (2022)	33	43	2022	Does Digital Inclusive Finance Mitigate the Negative Effect of Climate Variation on Rural Residents’ Income Growth in China?	https://doi.org/10.3390/ijerph19148280
+89	Lin (2024)	33	85	2024	Digital inclusive finance and corporate environmental performance: Insights from Chinese micro, small- and medium-sized manufacturing enterprises	https://doi.org/10.1016/j.bir.2024.02.009
+90	Wu (2022)	33	29	2022	Can Digital Finance Promote Peak Carbon Dioxide Emissions? Evidence from China	https://doi.org/10.3390/ijerph192114276
+91	Bakhsh (2023)	33	89	2023	Can digital financial inclusion facilitate renewable energy consumption? Evidence from nonlinear analysis	https://doi.org/10.1177/0958305x231204029
+92	Dai (2025)	32	31	2025	Policy pathways through FinTech and green finance for low-carbon energy transition in BRICS nations	https://doi.org/10.1016/j.esr.2024.101603
+93	Zhang (2023)	31	71	2023	Digital finance and carbon emissions: empirical evidence from China	https://doi.org/10.1007/s10668-023-03968-6
+94	Shehadeh (2025)	31	77	2025	Exploring Cutting-Edge Algorithms in FinTech: Leveraging Machine Learning and Artificial Intelligence for Achieving Sustainability	https://doi.org/10.1108/978-1-83549-608-420251011
+95	Saeedi (2024)	30	87	2024	The Role of Technology in Promoting Green Finance: A Systematic Literature Survey and the Development of a Framework	https://doi.org/10.3390/jrfm17100472
+96	Li (2024)	30	67	2024	Transitioning to low-carbon agriculture: the non-linear role of digital inclusive finance in China’s agricultural carbon emissions	https://doi.org/10.1057/s41599-024-03354-1
+97	Cai (2022)	30	65	2022	The nexus between digital finance and carbon emissions: Evidence from China	https://doi.org/10.3389/fpsyg.2022.997692
+98	Kashif (2025)	30	104	2025	The impact of green finance and FinTech mechanisms on financial stability: evidence from advanced and emerging economies	https://doi.org/10.1108/cfri-07-2024-0393
+99	Shao (2022)	30	61	2022	Can Digital Finance Promote Comprehensive Carbon Emission Performance? Evidence from Chinese Cities	https://doi.org/10.3390/ijerph191610255
+100	Lv (2024)	29	73	2024	Carbon reduction effect of digital finance in China: based on household micro data and input-output model	https://doi.org/10.1108/cfri-03-2024-0083
+101	Sun (2022)	29	52	2022	Exploring the Impact of Digital Inclusive Finance on Agricultural Carbon Emission Performance in China	https://doi.org/10.3390/ijerph191710922
+102	Feng (2023)	29	46	2023	Digital financial development and indirect household carbon emissions: empirical evidence from China	https://doi.org/10.1007/s10668-023-03603-4
+103	Wan (2025)	29	40	2025	Does Fintech improve the carbon reduction effect of green credit policy? Evidence from China	https://doi.org/10.1016/j.eap.2025.01.016
+104	Liu (2023)	29	76	2023	Digital financial development, synergistic reduction of pollution, and carbon emissions: evidence from biased technical change	https://doi.org/10.1007/s11356-023-29961-0
+105	Hasan (2024)	29	32	2024	FinTech and Sustainable Finance: How is FinTech Shaping the Future of Sustainable Finance?	https://doi.org/10.59324/ejmeb.2024.1(3).09
+106	Yao (2022)	28	75	2022	Research on coupling coordination and influencing factors between Urban low-carbon economy efficiency and digital finance—Evidence from 100 cities in China’s Yangtze River economic belt	https://doi.org/10.1371/journal.pone.0271455
+107	Shi (2024)	27	67	2024	The coupling and coordinated development of digital finance and green finance under the vision of “dual carbon” and the examination of carbon emission reduction effect	https://doi.org/10.1016/j.sftr.2024.100217
+108	Guo (2023)	27	32	2023	How digital finance affects carbon intensity–The moderating role of financial supervision	https://doi.org/10.1016/j.frl.2023.103862
+109	Yu (2024)	26	70	2024	A machine learning algorithm to explore the drivers of carbon emissions in Chinese cities	https://doi.org/10.1038/s41598-024-75753-y
+110	Huang (2025)	26	43	2025	Fintech and Corporate ESG Performance: An Empirical Analysis Based on the NEV Industry	https://doi.org/10.3390/su17020434
+111	Yan (2024)	25	57	2024	How does digital finance reduce carbon emissions intensity? Evidence from chain mediation effect of production technology innovation and green technology innovation	https://doi.org/10.1016/j.heliyon.2024.e30155
+112	Du (2024)	25	98	2024	The synergistic carbon emission reduction advantage of green finance and digital finance	https://doi.org/10.1016/j.eiar.2024.107795
+113	Afjal (2023)	25	78	2023	The Dynamic Impact of Financial Technology and Energy Consumption on Environmental Sustainability	https://doi.org/10.3390/su15129327
+114	Lei (2023)	24	41	2023	Emission reduction effect of digital finance: evidence from China	https://doi.org/10.1007/s11356-023-26424-4
+115	Ζουρνατζίδου (2025)	24	70	2025	Green Finance and Sustainable Development: Investigating the Role of Greentech Business Ecosystem Through PRISMA-Driven Bibliometric Analysis	https://doi.org/10.3390/admsci15040150
+116	Shi (2025)	24	74	2025	China's energy system building toward an era of resilience: How green fintech can empower?	https://doi.org/10.1016/j.iref.2025.103876
+117	Xu (2025)	24	79	2025	The green promise of digital finance: Exploring its effects and mechanisms on carbon reduction	https://doi.org/10.1016/j.chieco.2025.102374
+118	Zhang (2024)	24	50	2024	Can digital financial inclusion promote the coupling coordination between pollution reduction and low-carbon development? Evidence from China	https://doi.org/10.1016/j.eap.2024.05.007
+119	Ma (2023)	24	45	2023	The Impact of Fintech Development on Air Pollution	https://doi.org/10.3390/ijerph20043387
+120	Zhou (2024)	24	55	2024	The nonlinear effects of digital finance on carbon performance: Evidence from China	https://doi.org/10.1016/j.jik.2024.100484
+121	Khan (2024)	24	59	2024	The role of Fintech in containing the carbon curse of natural resources: Evidence from resource-rich countries	https://doi.org/10.1016/j.resourpol.2024.104733
+122	Teichmann (2023)	23	40	2023	Compliance concerns in sustainable finance: an analysis of peer-to-peer (P2P) lending platforms and sustainability	https://doi.org/10.1108/jfc-11-2022-0281
+123	Zhou (2023)	23	36	2023	Digital finance and greener emissions: evidence from China	https://doi.org/10.1080/00036846.2023.2266599
+124	Li (2024)	23	64	2024	The role of digital finance on the synergistic governance of pollution & carbon: Evidence from Chinese cities	https://doi.org/10.1016/j.scs.2024.105812
+125	DENG (2021)	23	12	2021	The impact of urban digital finance development on carbon emission performance in China and mechanism	https://doi.org/10.18402/resci.2021.11.14
+126	Feng (2025)	23	59	2025	The impact of digital inclusive finance on household carbon emissions: Empirical evidence from China	https://doi.org/10.1016/j.irfa.2025.104088
+127	Ye (2023)	22	46	2023	Digital inclusive finance, consumption structure upgrading and carbon emissions	https://doi.org/10.3389/fenvs.2023.1282784
+128	Zhou (2023)	22	46	2023	The impact of digital financial inclusion on household carbon emissions: evidence from China	https://doi.org/10.1186/s40008-023-00296-w
+129	Wen (2023)	22	38	2023	Can Fintech Lead to the Collaborative Reduction in Pollution Discharges and Carbon Emissions?	https://doi.org/10.3390/su151511627
+130	Su (2024)	21	74	2024	Quantile connectedness among fintech, carbon future, and energy markets: Implications for hedging and investment strategies	https://doi.org/10.1016/j.eneco.2024.107904
+131	Yang (2024)	21	83	2024	Has Digital Financial Inclusion Curbed Carbon Emissions Intensity? Considering Technological Innovation and Green Consumption in China	https://doi.org/10.1007/s13132-024-01902-3
+132	Ni (2023)	21	61	2023	Impact of fintech and environmental regulation on green innovation: inspiration from prefecture-level cities in China	https://doi.org/10.3389/fevo.2023.1265531
+133	Zhang (2022)	21	31	2022	Digital Finance, Industrial Structure, and Total Factor Energy Efficiency: A Study on Moderated Mediation Model with Resource Dependence	https://doi.org/10.3390/su142214718
+134	Marín‐Rodríguez (2024)	21	124	2024	Evolution of Green Finance: Mapping Its Role as a Catalyst for Economic Growth and Innovation	https://doi.org/10.3390/jrfm17110507
+135	Chen (2024)	21	49	2024	Financial technology as a heterogeneous driver of carbon emission reduction in China: Evidence from a novel sparse quantile regression	https://doi.org/10.1016/j.jik.2024.100476
+136	Li (2023)	21	33	2023	RETRACTED: The impact of digital finance development on carbon dioxide emissions: Evidence from households in China	https://doi.org/10.1016/j.techfore.2023.122364
+137	Bakry (2024)	21	86	2024	Digital finance and sustainable development: Evidence from developing nations	https://doi.org/10.1177/00368504241278823
+138	Zhang (2024)	20	94	2024	Digital governance leveraging urbanization and fintech synergies for sustainable development in BRICS	https://doi.org/10.1038/s41598-024-81712-4
+139	Yin (2022)	20	13	2022	Digital finance development and manufacturing emission reduction: An empirical evidence from China	https://doi.org/10.3389/fpubh.2022.973644
+140	Oben (2024)	20	102	2024	Toward Environmental Sustainability in Africa: The Impact of Financial Technology, Human Development, and Renewable Energy Consumption Across Income Groups	https://doi.org/10.1002/tqem.22347
+141	Zhang (2024)	20	80	2024	Fintech’s role in carbon emission efficiency: dynamic spatial analysis	https://doi.org/10.1038/s41598-024-74834-2
+142	Rasheed (2024)	20	74	2024	Income inequality and carbon emissions in Asia: Does financial inclusion matter?	https://doi.org/10.1002/sd.2974
+143	Lei (2024)	20	59	2024	Carbon reduction effects of digital financial inclusion: Evidence from the county-scale in China	https://doi.org/10.1016/j.jclepro.2024.142098
+144	Xian (2024)	20	98	2024	Impact of Inclusive Growth, Environmental Policy Incentives, Fintech and Globalization on Environmental Sustainability in G20 Countries	https://doi.org/10.3390/su17010050
+145	Liu (2023)	19	79	2023	Fintech’s Impact on Green Total Factor Productivity of High Carbon Enterprises	https://doi.org/10.1080/1540496x.2023.2250902
+146	Mavļutova (2025)	19	110	2025	The role of green digital investments in promoting sustainable development goals and green energy consumption	https://doi.org/10.1016/j.joitmc.2025.100518
+147	Miled (2025)	19	32	2025	Nexus between fintech, green finance natural resources, economic growth and environment sustainability: evidence from BRICS countries	https://doi.org/10.1186/s43093-025-00469-y
+148	Xie (2024)	19	66	2024	Consumers’ Behavioral Willingness to Use Green Financial Products: An Empirical Study within a Theoretical Framework	https://doi.org/10.3390/bs14080634
+149	Al-Kasasbeh (2024)	19	42	2024	The Dynamic Impact of Environmental Sustainability, Green Finance, and FinTech on Energy Efficiency in Middle Eastern Economies	https://doi.org/10.32479/ijeep.15691
+150	Ersin (2024)	18	51	2024	Are cleaner energy and financial technologies needed? Contagion and causality evidence between global fintech markets, energy consumption, and environmental pollution	https://doi.org/10.1007/s10098-024-02845-8
+151	Zhao (2024)	18	85	2024	Synergistic impact of digital finance and urban agglomeration policy on carbon emission reduction	https://doi.org/10.1016/j.iref.2024.103685
+152	Li (2023)	18	56	2023	Digital inclusive finance, agricultural green technology innovation and agricultural carbon emissions: Impact mechanism and empirical test	https://doi.org/10.1371/journal.pone.0288072
+153	Lu (2022)	18	40	2022	Education and its impact on renewable energy demand, carbon intensity, and green growth: do digital financial inclusion and environmental policy stringency matter in China	https://doi.org/10.1007/s11356-022-22759-6
+154	Mnif (2024)	17	43	2024	Strategic insights into carbon markets, digital finance and geopolitical risks for advancing green sustainability investments	https://doi.org/10.1108/meq-10-2023-0369
+155	Zaman (2025)	17	79	2025	Pursuing the Roadmaps to SDG 13: How Climate Change Technology Moderates the nexus Between Digital Finance and Environmental Sustainability	https://doi.org/10.1002/sd.3420
+156	Chen (2024)	17	73	2024	Does natural resources rent promote carbon neutrality: The role of digital finance	https://doi.org/10.1016/j.resourpol.2024.105047
+157	Wang (2023)	17	67	2023	Is the spatial impact of digital financial inclusion on CO2 emissions real? A spatial fluctuation spillover perspective	https://doi.org/10.1016/j.gsf.2023.101656
+158	Cao (2023)	17	48	2023	Digital financial innovation and renewable electrification: A step toward zero carbon nexus	https://doi.org/10.1016/j.renene.2023.118910
+159	Wu (2024)	16	92	2024	Digital finance, capital-biased and labor-biased technical progress: Important grips for mitigating carbon emission inequality	https://doi.org/10.1016/j.jenvman.2024.123198
+160	Anwar (2024)	16	86	2024	Importance of FinTech and green finance to achieve the carbon neutrality targets: a study of australian perspective	https://doi.org/10.1088/2515-7620/ad853d
+161	Zeng (2025)	16	29	2025	Fintech and low-carbon urban development	https://doi.org/10.1016/j.frl.2025.107229
+162	Hong (2024)	16	16	2024	Exploring the Impact of Digital Inclusive Finance on Agricultural Carbon Emissions: Evidence from the Mediation Effect of Capital Deepening	https://doi.org/10.3390/su16073071
+163	Xu (2023)	16	35	2023	Has Digital Finance Made Marine Energy Carbon Emission More Efficient in Coastal Areas of China?	https://doi.org/10.3390/su15031936
+164	SU (2023)	16	12	2023	Spatial effect of digital inclusive finance on agricultural carbon emission intensity and mechanism	https://doi.org/10.18402/resci.2023.03.10
+165	Chen (2023)	16	46	2023	Cleaning Russian oil industry for energy resource exploration and industrial transformation towards zero carbon green recovery: Role of inclusive digital finance	https://doi.org/10.1016/j.resourpol.2023.104436
+166	Yuan (2022)	15	14	2022	Research on the Impact Evaluation of Digital Finance on the Synergy between Economic Development and Ecological Environment	https://doi.org/10.1155/2022/1714609
+167	Tao (2025)	15	46	2025	The role of Fintech in shaping corporate carbon emissions: Evidence from China's firm-level data	https://doi.org/10.1016/j.jenvman.2025.125644
+168	Zhang (2022)	15	6	2022	Does the development of digital finance have environmental governance effect? – empirical evidence from China	https://doi.org/10.1080/13504851.2022.2096856
+169	Dai (2025)	15	67	2025	Advancing economic sustainability in E7 economies: the impact of green finance, environmental benefits, and natural resource management	https://doi.org/10.3389/fenvs.2024.1509564
+170	Ghazouani (2025)	14	127	2025	Are natural resources and trade openness linked to carbon emissions in Belt and Road Initiative economies? Exploring the moderating role of Fintech	https://doi.org/10.1016/j.dsef.2025.100059
+171	David (2022)	14	26	2022	Developing FinTech Ecosystems for Voluntary Carbon Markets Through Nature-Based Solutions: Opportunities and Barriers in ASEAN	https://doi.org/10.1007/978-981-19-2662-4_6
+172	Jangid (2025)	14	66	2025	Role of FinTech and technological innovation towards energy, growth, and environment nexus in G20 economies	https://doi.org/10.1038/s41598-025-02794-2
+173	Jin (2023)	14	16	2023	Study on the influence of digital financial inclusion on agricultural carbon emission efficiency in the Yangtze River Economic Belt	https://doi.org/10.1093/ijlct/ctad072
+174	Khan (2025)	14	71	2025	The nexus between fintech and green finance in advancing sustainable performance across countries	https://doi.org/10.1007/s43621-025-02268-5
+175	Li (2025)	14	65	2025	The nonlinear dynamic effects of fintech on carbon emissions: Evidence from Chinese cities	https://doi.org/10.1016/j.irfa.2025.104335
+176	shao (2023)	14	75	2023	Moving towards carbon neutral lifestyle through FinTech social media platform: a case study of Ant Forest	https://doi.org/10.3389/fenvs.2023.1160986
+177	Omeragic (2024)	13	39	2024	FinTech and Climate Action, and Affordable and Clean Energy	https://doi.org/10.1016/j.procs.2024.05.031
+178	Ahiase (2024)	13	36	2024	Digital financial inclusion and environmental sustainability in Africa: the moderating effect of income inequality	https://doi.org/10.1108/meq-11-2023-0382
+179	Coffie (2024)	13	66	2024	FinTech and CO2 emission: evidence from (top 7) mobile money economies in Africa	https://doi.org/10.1108/jfrc-05-2024-0089
+180	Tan (2024)	13	32	2024	Can digital financial inclusion converge the regional agricultural carbon emissions intensity gap?	https://doi.org/10.1371/journal.pone.0307328
+181	Teng (2025)	13	64	2025	Rewiring Sustainability: How Digital Transformation and Fintech Innovation Reshape Environmental Trajectories in the Industry 4.0 Era	https://doi.org/10.3390/systems13060400
+182	Jiang (2025)	13	25	2025	Financial technology and regional carbon emission reduction: Mediating effect of green technology innovation	https://doi.org/10.1016/j.frl.2025.107110
+183	Tan (2024)	13	25	2024	Mapping the nexus of digital finance and energy transition in Chinese prefecture-level cities	https://doi.org/10.1016/j.esr.2024.101609
+184	Magableh (2025)	13	94	2025	Role of financial technology (FinTech) innovations in driving sustainable development: a comprehensive literature review and future research avenues	https://doi.org/10.1108/jstpm-02-2025-0033
+185	Barroso (2024)	12	181	2024	Bioenergy and bioproducts from cashew apple bagasse: a scientometric overview and strategies for sustainable utilization	https://doi.org/10.1002/bbb.2718
+186	Bhardwaj (2025)	12	60	2025	Role of green finance in carbon emission reduction: a meta-bibliometric approach to developed and developing economies	https://doi.org/10.1007/s43621-025-02007-w
+187	Acheampong (2025)	12	51	2025	Bridging ESG and FinTech: A Technological Approach to Carbon Performance	https://doi.org/10.1002/bse.70122
+188	Zhang (2023)	12	52	2023	A Study on the Effects of Digital Finance on Green Low-Carbon Circular Development Based on Machine Learning Models	https://doi.org/10.3390/math11183903
+189	Ayaydın (2025)	12	81	2025	FinTech driven green energy transition foreign direct investment and ecological footprint in BRICST countries	https://doi.org/10.1038/s41598-025-18898-8
+190	Li (2024)	12	74	2024	Fintech and urban environmental sustainability: Exploring the impact of financial technology on urban carbon emissions	https://doi.org/10.1002/sd.3212
+191	Wu (2025)	12	72	2025	Driving low-carbon energy transition with FinTech: The role of government environmental attention	https://doi.org/10.1016/j.energy.2025.136993
+192	Su (2023)	12	41	2023	Impact of Digital Inclusive Finance on Urban Carbon Emission Intensity: From the Perspective of Green and Low-Carbon Travel and Clean Energy	https://doi.org/10.3390/su151612623
+193	Dong (2024)	12	35	2024	Digital finance reduces urban carbon footprint pressure in 277 Chinese cities	https://doi.org/10.1038/s41598-024-67315-z
+194	Liu (2023)	12	43	2023	How does digital finance accelerate low-carbon development: evidence from the Yellow River Basin, China	https://doi.org/10.1080/09640568.2023.2258449
+195	Qiao (2025)	12	47	2025	Green fintech contributes to environmental sustainability—based on empirical evidence from China	https://doi.org/10.1057/s41599-025-06159-y
+196	Üzar (2026)	11	103	2026	The Impact of FinTech on Environmental Sustainability: Empirical Evidence Based on a Novel FinTech Index	https://doi.org/10.1002/bse.70546
+197	Koemtzopoulos (2025)	11	59	2025	Cryptocurrencies Transit to a Carbon Neutral Environment: From Fintech to Greentech Through Clean Energy and Eco-Efficiency Policies	https://doi.org/10.3390/en18020291
+198	Bao (2024)	11	29	2024	Study on the impact of digital finance on agricultural carbon emissions from a spatial perspective: an analysis based on provincial panel data	https://doi.org/10.1093/ijlct/ctae019
+199	Zhang (2023)	11	65	2023	Unveiling the Impact of Digital Financial Inclusion on Low-Carbon Green Utilization of Farmland: The Roles of Farmland Transfer and Management Scale	https://doi.org/10.3390/su15043556
+200	Xiong (2023)	11	44	2023	Financial Inclusion through Digitalization: Improving Emerging Drivers of Industrial Pollution—Evidence from China	https://doi.org/10.3390/su151310203
+201	Loizeaux (2023)	11	65	2023	Trees made out of fintech: Valuing carbon and accumulating capital in China’s Ant Forest	https://doi.org/10.1016/j.geoforum.2023.103888
+202	Farzana (2024)	11	137	2024	Interplay of Digital Financial Inclusion, Technological Innovation, Good Governance, and Carbon Neutrality in the Top 30 Remittance-Receiving Countries: The Significance of Renewable Energy Integration	https://doi.org/10.32479/ijeep.16097
+203	Kanwal (2023)	11	75	2023	Analyzing the Asymmetric Effects of Green Finance, Financial Development and FDI on Environment Sustainability: New Insights from Pakistan Based Non-Linear ARDL Approach	https://doi.org/10.52131/joe.2023.0503.0151
+204	Vu (2023)	11	56	2023	Fintech development and environmental sustainability: Does income inequality matter?	https://doi.org/10.1111/1467-8454.12328
+205	Rayun (2025)	11	109	2025	Green FinTech Innovations	https://doi.org/10.4018/979-8-3373-1112-8.ch009
+206	Kakar (2025)	11	96	2025	Navigating the nexus of renewable energy, industrialization, financial technology, and carbon emissions: An in-depth analysis and policy framework	https://doi.org/10.1016/j.techsoc.2025.103016
+207	Xu (2022)	10	54	2022	Evaluation and Determinants of the Digital Inclusive Financial Support Efficiency for Marine Carbon Sink Fisheries: Evidence from China	https://doi.org/10.3390/ijerph192113971
+208	Jiang (2024)	10	80	2024	Shades of sustainability: Decoding the influence of fintech, natural resources and green ICT on CO2 emissions and green growth in China	https://doi.org/10.1016/j.resourpol.2024.105275
+209	Zhao (2024)	10	79	2024	China's economic growth and low-carbon development under the background of resource curse: A new perspective based on digital finance	https://doi.org/10.1016/j.iref.2024.103590
+210	Liao (2023)	10	55	2023	Can Digital Finance Contribute to Agricultural Carbon Reduction? Evidence from China	https://doi.org/10.3390/su152215824
+211	Sengupta (2023)	10	45	2023	Green Finance Products and Investments in the Changing Business World	https://doi.org/10.4018/978-1-6684-8969-7.ch020
+212	Deng (2024)	10	40	2024	How does the coal-to-gas policy mitigate carbon emissions? The role of fintech development	https://doi.org/10.1016/j.resourpol.2023.104605
+213	Zhang (2022)	10	12	2022	FinTech and Green Finance: The Case of Ant Forest in China	https://doi.org/10.2991/assehr.k.220110.126
+214	Sun (2024)	10	48	2024	How do digital financial inclusion, ICT diffusion, and education affect energy security risk in top energy-consuming countries?	https://doi.org/10.1177/0958305x241244467
+215	Putranti (2022)	10	38	2022	Crypto Minning : Indonesia Carbon Tax Challenges and Safeguarding International Commitment on Human Security	https://doi.org/10.46336/ijbesd.v3i1.206
+216	Shen (2024)	10	82	2024	Finance-driven sustainable development: the impact of green finance on agricultural non-point source pollution and its pathways	https://doi.org/10.3389/fsufs.2024.1430670
+217	Liu (2025)	10	113	2025	Financing forest restoration: the distribution and role of green FinTech in nature-based solutions to climate change	https://doi.org/10.1080/2833115x.2025.2502343
+218	Yalçın (2025)	10	90	2025	FinTech and the green transition: Exploring pathways to ignite innovation for carbon neutrality in global supply chains	https://doi.org/10.1016/j.techsoc.2025.103094
+219	Khan (2025)	10	45	2025	Fintech, ICT and Natural Resource Rent Contribution in Achieving Sustainable Green Growth Across the Globe	https://doi.org/10.63468/jpsa.3.2.11
+220	Thanapongporn (2024)	9	48	2024	The new service development process of green FinTech innovation: A multi-case study	https://doi.org/10.21833/ijaas.2024.07.012
+221	Xu (2024)	9	69	2024	The role of financial innovation in carbon intensity reduction: perspectives from energy structure transition and fiscal policies	https://doi.org/10.1007/s11356-024-33803-y
+222	Khalegi (2024)	9	34	2024	Blockchain and sustainable finance: Enhancing transparency and efficiency in green investments	https://doi.org/10.52566/msu-econ3.2024.125
+223	Yun (2024)	9	146	2024	An Overview of the Evolution in the Research Landscape of Green Finance	https://doi.org/10.3390/world5040068
+224	Li (2024)	9	70	2024	Pursuit of sustainable environment; Quantifying the role of fintech, natural resources and energy efficiency in carbon neutrality in top six manufacturing nations	https://doi.org/10.1016/j.resourpol.2024.105247
+225	Tian-yu (2023)	9	65	2023	RETRACTED ARTICLE: Evaluating the trilemma nexus of digital finance, renewable energy consumption, and CO2 emission: evidence from nonlinear ARDL model	http://dx.doi.org/10.1007/s11356-023-27159-y
+226	Ren (2024)	9	93	2024	The inverted U-effect of digital financial inclusion on household food carbon footprint in China: The moderating roles of environmental concern and future expectations	https://doi.org/10.1016/j.energy.2024.133727
+227	Sadiq (2024)	9	51	2024	Digital Financial Inclusion and Environmental Sustainability Nexus: Evidence from South Asian Economies	https://doi.org/10.64534/commer.2024.056
+228	He (2024)	9	63	2024	Digital Inclusive Finance, Digital Technology Innovation, and Carbon Emission Intensity	https://doi.org/10.3390/su16156407
+229	Cifuentes‐Faura (2026)	9	59	2026	Does digital financial inclusion support carbon neutrality? A cross-regional study	https://doi.org/10.1186/s40854-025-00826-4
+230	Majeed (2023)	9	53	2023	Environmental Impact of Digital Financial Inclusion and Green Growth: Insights from Global Panel Data Analysis	https://doi.org/10.64534/commer.2023.072
+231	Zhang (2024)	9	74	2024	A COP28 Perspective: Does Chinese Investment and Fintech Help to Achieve the SDGs of African Economies?	https://doi.org/10.3390/su16073084
+232	Yu (2023)	8	62	2023	The Impact of Financial System on Carbon Intensity: From the Perspective of Digitalization	https://doi.org/10.3390/su15021314
+233	Oben (2025)	8	82	2025	The role of human development, financial technology, economic growth, and fossil fuel energy consumption in environmental sustainability: novel insights from the world's leading carbon emitters using MMQR	https://doi.org/10.1007/s10668-025-06572-y
+234	Liu (2022)	8	28	2022	Exploring the role of digital inclusive finance in agricultural carbon emissions reduction in China: Insights from a two-way fixed-effects model	https://doi.org/10.3389/frevc.2022.1012346
+235	Sohail (2022)	8	96	2022	RETRACTED: Environmental concern in the era of digital fiscal inclusion: The evolving role of human capital and ICT in China	https://doi.org/10.3389/fpsyg.2022.990793
+236	Zhang (2023)	8	45	2023	The impact of financial technology on China’s low-carbon transformation of energy and mechanism analysis	https://doi.org/10.1007/s11356-023-31288-9
+237	Kuosuwan (2024)	8	19	2024	Digital banking and environmental impact: How Fintech supports carbon footprint reduction	https://doi.org/10.1051/bioconf/202414505017
+238	Liu (2025)	8	79	2025	Digital Finance Empowering Corporate ESG Performance: The Dual-Engine Role of Digital Transformation and Green Technological Innovation	https://doi.org/10.3390/su172310743
+239	Okere (2025)	8	97	2025	Advancing environmental sustainability through fintech, structural transformation, and resource diversification in emerging economies	https://doi.org/10.1186/s12302-025-01209-3
+240	Lee (2022)	8	53	2022	Digital Financial Inclusion and Carbon Neutrality: Evidence from Non-Linear Analysis	https://doi.org/10.2139/ssrn.4160673
+241	Kilinc‐Ata (2026)	8	41	2026	FinTech Investment, Geopolitical-Economic Uncertainty, and CO2 Emissions in Low- and Middle-Income Countries: Evidence from Dynamic Panel Models	https://doi.org/10.3390/jrfm19050362
+242	Huang (2025)	8	86	2025	Fintech as a catalyst for sustainable development: a bibliographic review of drivers, technologies, econometrics and regional insights	https://doi.org/10.1108/jal-02-2025-0094
+243	Jia (2025)	8	40	2025	Digital Inclusive Finance and Urban Carbon Intensity Reduction: Unraveling Green Credit Mechanisms and Spatial Heterogeneity Across Chinese Cities	https://doi.org/10.3390/su17114813
+244	Ali (2024)	8	84	2024	Impacts of Fintech and natural resources on environmental quality: The role of renewable energy and carbon taxes: A panel QARDL approach	https://doi.org/10.1111/1477-8947.12534
+245	Li (2023)	8	37	2023	How fintech affects financial sustainability in the electric power industry?—evidence from Chinese companies	https://doi.org/10.3389/fenvs.2023.1297030
+246	Qin (2025)	8	54	2025	Lighting a green future: The role of FinTech in the renewable energy transition	https://doi.org/10.1177/00368504251323566
+247	Ghazouani (2025)	8	145	2025	Income inequality, fintech innovation, and CO2 emissions: evidence from OECD countries	https://doi.org/10.1080/13504509.2025.2528228
+248	Wei (2023)	8	51	2023	Digital Finance and Pollution	https://doi.org/10.4018/jgim.321183
+249	Arnone (2022)	7	133	2022	BLOCKCHAIN AND CRYPTOCURRENCY INNOVATION FOR A SUSTAINABLE FINANCIAL SYSTEM	https://doi.org/10.15282/ijim.15.1.2022.8994
+250	Kravchuk (2022)	7	3	2022	GLOBAL FINANCE AND FINTECH: CHALLENGES, TRENDS AND SYSTEM DETERMINANTS OF DEVELOPMENT	https://doi.org/10.35774/sf2022.02.022
+251	Kassetty (2024)	7	7	2024	Green Finance and Fintech in Banking: Assessing Their Synergistic Impact on Environmental Performance.	https://doi.org/10.21428/e90189c8.a22fda5d
+252	Razzaq (2024)	7	38	2024	FinTech’s Double-Edged Sword: Economic Growth and CO2 Emissions – A Panel Data Analysis	https://doi.org/10.56976/jsom.v3i2.69
+253	Peng (2024)	7	54	2024	Does digital inclusive finance promote carbon emission reduction of enterprises	https://doi.org/10.1371/journal.pone.0302826
+254	Zhang (2025)	7	13	2025	Digital finance, industrial structure and regional carbon emissions	https://doi.org/10.1016/j.irfa.2025.104745
+255	Zheng (2025)	7	28	2025	How the impact and mechanisms of digital financial inclusion on agricultural carbon emission intensity: new evidence from a double machine learning model	https://doi.org/10.3389/fenvs.2025.1549623
+256	Zhao (2024)	7	50	2024	Intelligent transformation, fintech, and green Growth：A general equilibrium analysis based on credit allocation perspective	https://doi.org/10.1016/j.jenvman.2024.123107
+257	Farah (2026)	7	70	2026	Financial inclusion and green economic growth a systematic review of SCOPUS indexed studies from 2015 to 2025	https://doi.org/10.1007/s44274-026-00550-5
+258	Ullah (2025)	7	69	2025	Mitigating Risks for Climate Change: The Role of Digital Financial Policy, Innovation, Carbon Tax, and Macroeconomic Conditions on Sustainable Green Bonds	https://doi.org/10.1002/sd.3542
+259	Li (2024)	7	78	2024	How does digital financial inclusion affect households’ CO2? Micro-evidence from an emerging country	https://doi.org/10.1016/j.jeconbus.2024.106222
+260	Okere (2025)	7	107	2025	Environmental Impacts of Natural Resource and FinTech in Oil‐Rich Economies: The Role of FinTech in Mitigating the Carbon Curse	https://doi.org/10.1111/1477-8947.70021
+261	Li (2024)	6	26	2024	The Role of Green Technological Innovation, Fintech, and Financial Development in Environmental Sustainability: A Study on Selected Asian Countries	https://doi.org/10.32996/jefas.2024.6.3.4
+262	(2024)	6	4	2024	Analysis of the effect of digital financial inclusion on agricultural carbon emissions in China	https://doi.org/10.30955/gnj.06313
+263	Mahadevan (2025)	6	62	2025	To what extent do patents and digital finance shape the green pathway for domestic and international tourism?	https://doi.org/10.1080/10941665.2025.2455975
+264	Zhang (2025)	6	68	2025	The impact of digital inclusive finance on the low-carbon transition: Evidence from Chinese firms	https://doi.org/10.1016/j.jenvman.2025.128183
+265	Yin (2023)	6	54	2023	The effect of synergistic pollution and carbon reduction in the digital economy: Quasi-experimental evidence from Chinese cities	https://doi.org/10.3389/fenrg.2023.1267355
+266	Han (2024)	6	45	2024	Digital carbon neutrality: evidence of carbon emission reduction based on digital inclusive finance	https://doi.org/10.1007/s11356-024-33574-6
+267	Yang (2024)	6	51	2024	Can fintech pave the way for a transition towards low-carbon economy? Examination based on machine learning algorithm	https://doi.org/10.1007/s11356-024-32588-4
+268	Zhang (2024)	6	49	2024	Can fintech promote environmental investment in heavily polluting enterprises? evidence from China	https://doi.org/10.3389/fenvs.2024.1373685
+269	Wang (2024)	6	52	2024	The carbon emission reduction effect of digital finance: a spatio-temporal heterogeneity perspective	https://doi.org/10.1007/s10668-023-04386-4
+270	Hu (2025)	6	51	2025	Can digital inclusive finance suppress energy ecological footprint? moderated mediation effect test based on technological innovation	https://doi.org/10.1016/j.iref.2025.104491
+271	Lu (2025)	6	24	2025	Digital finance and equitable industrial carbon emissions: an empirical analysis of Chinese cities	https://doi.org/10.1057/s41599-025-04508-5
+272	Pan (2025)	6	51	2025	Digital finance and low carbon transition of heavy polluters: A study based on the dual driving effects of supply chain stability and dynamic capabilities	https://doi.org/10.1016/j.jenvman.2025.127355
+273	Saha (2024)	6	50	2024	Is Fintech Just an Innovation? Impact, Current Practices, and Policy Implications of Fintech Disruptions	https://doi.org/10.51505/ijebmr.2024.8412
+274	Ding (2023)	6	67	2023	Digital finance, government intervention, and carbon emission efficiency in China	https://doi.org/10.1007/s11356-023-30730-2
+275	Cheng (2024)	6	108	2024	How does green finance impact carbon emissions in China: Evidence from the fintech perspective	https://doi.org/10.1007/s11356-024-34034-x
+276	Zeng (2023)	6	68	2023	Prediction and evaluation of the energy structure under the green finance development in Chongqing municipality, China	https://doi.org/10.1016/j.heliyon.2023.e22481
+277	Hussain (2025)	6	52	2025	Fintech, bigtech credit and CO2 Emission: Implications for environmental sustainability	https://doi.org/10.1016/j.sftr.2025.101240
+278	Wang (2024)	6	66	2024	How Does Digital Inclusive Finance Policy Affect the Carbon Emission Intensity of Industrial Land in the Yangtze River Economic Belt of China? Evidence from Intermediary and Threshold Effects	https://doi.org/10.3390/land13081127
+279	Tiwari (2025)	6	94	2025	Fusion of Fintech and Green Finance Amidst Russo‐Ukrainian Conflict: A Step Toward Sustainable Development	https://doi.org/10.1002/sd.3502
+280	Chen (2025)	6	72	2025	A Ride on the Wave of “Digital” and an Advance Towards “Green”: The Spatial and Temporal Impacts of the Integration of Digital and Green Finance on the Pollution and Carbon Reduction Performance in China	https://doi.org/10.3390/su17062584
+281	Wan (2022)	6	23	2022	Analysis of Green Financial Policy Utility: A Policy Incentive Financial Mechanism Based on State Space Model Theory Algorithm	https://doi.org/10.1155/2022/5978122
+282	Hassan (2026)	5	52	2026	Toward a Digital and Sustainable Finance Ecosystem: A Systematic Review and Bibliometric Analysis on Fintech and ESG	https://doi.org/10.1002/bsd2.70349
+283	Alabi (2025)	5	63	2025	Assessing the Transformative Potential of Green Fintech Solutions in Mitigating Financed Emissions	https://doi.org/10.4018/979-8-3373-0355-0.ch008
+284	Chen (2026)	5	65	2026	The impact of digital inclusive finance on Green low-carbon energy transition: Evidence from China	https://doi.org/10.1016/j.esr.2025.102019
+285	Li (2024)	5	62	2024	Blessing or curse? Fintech adoption and greenhouse gas emission intensity	https://doi.org/10.1016/j.iref.2024.103810
+286	Wen (2026)	5	72	2026	Banking fintech and corporate innovation in China’s carbon-intensive industries: evidence from different panel approaches	https://doi.org/10.1186/s40854-025-00903-8
+287	Xing (2024)	5	72	2024	Spatio-temporal effects of digital inclusive finance on the synergy between CO2 and air pollution emissions in 251 Chinese cities	https://doi.org/10.1007/s11356-024-31988-w
+288	Tariq (2022)	5	29	2022	DOES DIGITAL FINANCE AND FINANCIAL INCLUSION STRENGTHEN ENVIRONMENTAL SUSTAINABILITY: EVIDENCE FROM ASIA	https://doi.org/10.52567/pjsr.v4i04.847.
+289	Almuhailan (2026)	5	51	2026	FinTech, Financial Inclusion, and Environmental Outcomes: Evidence From the European Transition Towards Sustainability	https://doi.org/10.1111/eufm.70046
+290	Li (2025)	5	70	2025	Can Fintech Development Contribute to Mitigating the Greenhouse Effect? A Global Perspective	https://doi.org/10.1109/tem.2025.3564950
+291	Huang (2025)	5	18	2025	Can digital inclusive finance simultaneously enhance carbon productivity and green total factor productivity?	https://doi.org/10.1016/j.frl.2025.108536
+292	Xu (2024)	5	86	2024	Can Digital Finance Enable China’s Industrial Carbon Unlocking under Environmental Regulatory Constraints? Joint Tests of Regression Analysis and Qualitative Comparative Analysis	https://doi.org/10.3390/su16104288
+293	He (2025)	5	66	2025	The distinct effects of digital finance inclusive on water use and carbon emissions between expansive and non-expansive cities in China	https://doi.org/10.1016/j.scs.2025.106982
+294	Li (2025)	5	34	2025	Do innovation policies and fintech create synergistic effects for the sustainability of urban green innovation?	https://doi.org/10.1016/j.sftr.2025.100696
+295	Huang (2024)	5	89	2024	The impact of fintech ecosystem on urban carbon emissions: evidence from China	https://doi.org/10.1007/s10668-024-05888-5
+296	Opoku (2026)	5	34	2026	Digital green finance models for sustainable urban development: Current trends and future perspectives	https://doi.org/10.3934/gf.2026003
+297	Ma (2023)	5	43	2023	Spatial Effects of Digital Transformation, PM2.5 Exposure, Economic Growth and Technological Innovation Nexus: PM2.5 Concentrations in China during 2010–2020	https://doi.org/10.3390/ijerph20032550
+298	Tariq (2025)	5	32	2025	Green FinTech-Driving Sustainable Finance and Empowering Underserved Communities	https://doi.org/10.4018/979-8-3373-1112-8.ch010
+299	Yu (2022)	5	24	2022	The Role Model of Inclusive Finance in Regional Economic Development Based on Carbon Neutrality Theory	https://doi.org/10.1155/2022/2752498
+300	Zhou (2025)	5	27	2025	FinTech and Innovation: The Path to Upgrading Regional Carbon-Intensive Industries in China	https://doi.org/10.1080/1540496x.2025.2527762

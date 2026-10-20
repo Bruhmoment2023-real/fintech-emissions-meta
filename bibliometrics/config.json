@@ -1,0 +1,77 @@
+{
+  "name": "14 Does fintech reduce carbon emissions? Literature map of fintech, digital finance and emissions research (OpenAlex-led, 2015-2026)",
+  "year_min": 2015,
+  "year_max": 2026,
+  "sublits": {
+    "C": {"label": "Empirical studies of fintech or digital finance and carbon emissions (hand-screened include)", "rule": ["(?!x)x"]},
+    "R": {"label": "Reviews, conceptual and non-empirical papers", "rule": ["(?!x)x"]},
+    "O": {"label": "Fintech exposure with another outcome (energy, pollution, innovation, efficiency, ESG)", "rule": ["(?!x)x"]}
+  },
+  "primary_sublit_priority": ["R", "C", "O"],
+  "main_path_key_routes": 6,
+  "vos_max_nodes": 300,
+  "evidence_n": 50,
+  "pdf_n": 28,
+  "heatmap": {
+    "title": "Fintech and emissions (OpenAlex corpus): place studied by emissions theme",
+    "row_title": "Country or region named in title/abstract",
+    "col_title": "Theme named in title/abstract",
+    "caution": "Mention is not study design: a paper that names China once in its motivation counts the same as a Chinese panel study, and only title and abstract are read.",
+    "rows": {
+      "China (provinces)": "\\bprovinc\\w+\\b",
+      "China (cities)": "\\b(prefecture|cities|city|urban)\\b",
+      "China (firms)": "\\b(listed (compan|firm)|a-share|enterprise|firm-level)\\b",
+      "China (any)": "\\b(china|chinese)\\b",
+      "India": "\\b(india|indian)\\b",
+      "BRICS / G20 / OECD": "\\b(brics|g7|g-7|g20|g-20|oecd|e7)\\b",
+      "ASEAN / South Asia": "\\b(asean|southeast asia\\w*|south asia\\w*|indonesia|malaysia|vietnam|thailand|pakistan|bangladesh)\\b",
+      "Africa": "\\b(africa\\w*|nigeria|ghana|kenya)\\b",
+      "Global / cross-country": "\\b(global|cross-country|countries|panel of)\\b"
+    },
+    "cols": {
+      "Carbon intensity": "\\bcarbon (emission )?intensity\\b",
+      "Carbon emissions / CO2": "\\b(carbon (dioxide )?emissions?|co2|co 2)\\b",
+      "Agricultural carbon": "\\bagricultur\\w+\\b",
+      "Household carbon": "\\bhousehold\\w*\\b",
+      "Energy / renewable": "\\b(renewable|energy)\\b",
+      "Green innovation": "\\bgreen (innovation|technolog\\w+)\\b",
+      "Mediation / mechanism": "\\b(mediat\\w+|mechanism|channel)\\b",
+      "Spatial spillover": "\\bspatial\\b",
+      "Nonlinear / threshold": "\\b(nonlinear|non-linear|threshold|u-shaped|inverted u)\\b",
+      "Causal design (IV, DID)": "\\b(instrumental variable|difference-in-difference|quasi-natural|did)\\b"
+    }
+  },
+  "data_terms": {
+    "Peking University DFI index": "\\b(peking university|pku|digital financial inclusion index)\\b",
+    "Chinese provinces": "\\bprovinc\\w+\\b",
+    "Prefecture-level cities": "\\b(prefecture|cities)\\b",
+    "Listed firms": "\\b(listed|a-share|firm-level)\\b",
+    "Cross-country panel": "\\b(countries|cross-country|brics|oecd|g20)\\b"
+  },
+  "evidence_data_from": "data_terms",
+  "evidence_data_label": "data_named_in_abstract",
+  "model_terms": {
+    "Fixed effects": "\\bfixed.effect\\w*\\b",
+    "GMM": "\\bgmm\\b",
+    "ARDL / cointegration": "\\b(ardl|cointegration)\\b",
+    "Spatial Durbin / spatial": "\\bspatial\\b",
+    "IV / 2SLS": "\\b(instrumental variable|2sls)\\b",
+    "Quantile": "\\bquantile\\b",
+    "DID": "\\b(difference-in-difference|did)\\b",
+    "Machine learning": "\\bmachine learning\\b"
+  },
+  "relevance": [
+    {"re": "\\b(fintech|financial technology|digital (inclusive )?financ\\w+|digital financial inclusion)\\b", "w": 3},
+    {"re": "\\b(carbon|co2|emission\\w*)\\b", "w": 3},
+    {"re": "\\b(panel|regression|fixed effect|gmm|ardl|empirical)\\b", "w": 1},
+    {"re": "\\b(meta-analysis|systematic review|bibliometric)\\b", "w": 2}
+  ],
+  "protocol_databases": [
+    "OpenAlex works API (title_and_abstract.search), run 2026-10-16/17; Crossref REST, DOAJ article search, Semantic Scholar (partial; rate limited). RePEc/IDEAS and EconPapers were not searched (they require submitting a web search form)."
+  ],
+  "protocol_limits": [
+    "OpenAlex has no author keywords; keyword analyses use OpenAlex's algorithmic keywords.",
+    "Reference lists come from OpenAlex; only references cited at least four times in the corpus were resolved to titles because of rate limits.",
+    "Corpus = records the stage-1 hand screen judged to have a fintech or digital-finance exposure plus unscreened OpenAlex hits that pass a lexical test."
+  ]
+}

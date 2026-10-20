@@ -1,0 +1,28 @@
+{
+ "corpus_records": 972,
+ "reference_rows": 31181,
+ "keywords_with_at_least_8_records": 199,
+ "bursts_found": 21,
+ "docs_per_year": {
+  "2016": 1,
+  "2018": 1,
+  "2019": 1,
+  "2020": 2,
+  "2021": 9,
+  "2022": 68,
+  "2023": 105,
+  "2024": 195,
+  "2025": 318,
+  "2026": 272
+ },
+ "citation_edges_in_corpus": 1936,
+ "nodes_with_edges": 509,
+ "weakly_connected_components": 4,
+ "main_path": {
+  "component_nodes": 503,
+  "component_edges": 1933,
+  "global_main_path_length": 9,
+  "key_route_nodes": 19,
+  "max_spc": 1787
+ }
+}

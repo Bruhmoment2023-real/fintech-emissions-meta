@@ -1,0 +1,38 @@
+openalex search works 1700 | keep dois 868 | single lookups needed 13
+lookup 0 13
+references to resolve 1166 of 18787
+ref 0 1166
+ref 100 1166
+ref 200 1166
+ref 300 1166
+ref 400 1166
+ref 500 1166
+ref 600 1166
+ref 700 1166
+ref 800 1166
+ref 900 1166
+ref 1000 1166
+ref 1100 1166
+{
+ "openalex_search_works": 1700,
+ "works_after_lookups": 1711,
+ "corpus": 972,
+ "version_duplicates_removed": 63,
+ "reference_links": 31181,
+ "refs_cited_2plus": 1166,
+ "refs_resolved": 1165,
+ "by_sublit": {
+  "C": 395,
+  "O": 299,
+  "R": 278
+ },
+ "by_stage1": {
+  "I": 324,
+  "E2": 262,
+  "E3": 224,
+  "unscreened": 125,
+  "E4": 23,
+  "E8": 12,
+  "E5": 2
+ }
+}

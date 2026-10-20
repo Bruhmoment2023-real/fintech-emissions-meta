@@ -1,0 +1,262 @@
+id	label	weight<Occurrences>	score<Avg. pub. year>	score<Avg. citations>
+1	fintech	367	2024.81	10.54
+2	green finance	299	2024.81	13.17
+3	digital finance	278	2024.35	14.86
+4	co2 emissions	264	2024.48	17.24
+5	digital financial inclusion	202	2024.27	17.47
+6	china	175	2024.05	20.44
+7	regional heterogeneity	109	2023.99	17.19
+8	financial inclusion	108	2024.95	8.03
+9	environmental sustainability	104	2024.8	14.07
+10	sustainable development	103	2024.87	9.57
+11	blockchain	102	2024.93	5.12
+12	carbon emission reduction	100	2024.35	10.31
+13	dual carbon goals	92	2024.58	7.28
+14	green innovation	91	2024.73	11.58
+15	carbon neutrality	86	2024.03	23.27
+16	low-carbon transition	75	2025.03	7.24
+17	green bonds	72	2025.08	2.08
+18	carbon intensity	70	2024.23	15.4
+19	sustainable finance	65	2025.0	6.54
+20	spatial spillover effects	63	2024.19	32.38
+21	renewable energy	59	2024.63	20.68
+22	economic growth	59	2024.58	27.24
+23	artificial intelligence	59	2025.17	6.85
+24	sustainable development goals	58	2025.05	9.91
+25	chinese cities	54	2023.93	39.07
+26	technological innovation	51	2024.2	13.53
+27	green fintech	51	2025.1	5.8
+28	emissions trading	44	2024.75	7.5
+29	climate change mitigation	41	2024.66	10.88
+30	industrial upgrading	41	2024.32	14.1
+31	low-carbon development	40	2024.62	11.02
+32	green technology innovation	39	2024.05	32.08
+33	environmental regulation	38	2024.32	10.13
+34	emerging markets	38	2025.11	10.16
+35	financial regulation	37	2024.65	11.59
+36	prefecture-level cities	36	2024.14	24.5
+37	financial constraints	35	2024.86	15.4
+38	chinese provinces	35	2024.23	14.94
+39	low-carbon economy	35	2024.51	16.2
+40	energy efficiency	35	2024.94	7.09
+41	threshold effects	34	2024.21	18.18
+42	urbanization	34	2024.94	6.88
+43	climate change	34	2024.79	3.24
+44	mediating effect	32	2024.16	9.72
+45	greenwashing	32	2025.41	2.66
+46	green transition	30	2024.63	6.33
+47	renewable energy consumption	30	2024.87	12.27
+48	environmental degradation	30	2024.8	5.6
+49	green investment	29	2024.83	4.17
+50	agricultural carbon emissions	29	2024.0	12.93
+51	digital transformation	29	2025.1	5.69
+52	moderating effect	27	2025.22	3.44
+53	climate finance	26	2024.77	1.23
+54	india	26	2025.35	3.23
+55	digital payments	26	2024.88	4.08
+56	green growth	26	2024.69	9.77
+57	chinese listed companies	26	2025.19	6.65
+58	digital infrastructure	26	2024.88	13.88
+59	green economy	26	2024.77	7.12
+60	energy consumption	25	2024.68	6.28
+61	greenhouse gas emissions	25	2024.6	19.88
+62	decarbonization	25	2025.0	6.64
+63	energy transition	24	2024.96	7.71
+64	digitalization	24	2025.08	3.5
+65	sustainable investment	23	2024.39	5.13
+66	renewable energy financing	22	2024.95	6.27
+67	digital divide	22	2024.86	19.14
+68	digital economy	22	2024.55	7.09
+69	financial innovation	22	2025.05	5.05
+70	financial development	22	2024.5	12.77
+71	resource-based cities	22	2024.91	11.5
+72	carbon credits	21	2024.86	2.71
+73	big data	21	2024.76	5.05
+74	institutional quality	21	2025.38	4.76
+75	renewable energy investment	21	2025.29	5.24
+76	human capital	21	2024.57	6.95
+77	industrial structure	21	2023.48	40.9
+78	green credit	21	2024.38	64.57
+79	foreign direct investment	20	2025.15	5.35
+80	natural resource rents	20	2025.25	15.1
+81	carbon footprint reduction	20	2024.25	5.4
+82	developing countries	19	2024.89	7.58
+83	internet of things	19	2025.16	8.16
+84	carbon peak	19	2023.58	27.42
+85	environmental kuznets curve	19	2024.21	42.21
+86	environmental technology	19	2024.53	21.0
+87	state-owned enterprises	19	2024.79	18.11
+88	fintech adoption	18	2025.22	3.5
+89	circular economy	18	2025.28	3.39
+90	corporate governance	17	2025.18	5.12
+91	low-carbon agriculture	17	2023.88	17.18
+92	esg investing	17	2025.41	0.53
+93	regional disparities	17	2024.65	15.65
+94	trade openness	17	2024.88	9.71
+95	financial literacy	17	2024.94	10.06
+96	small and medium-sized enterprises	17	2023.76	17.35
+97	information asymmetry	16	2024.62	10.88
+98	carbon efficiency	16	2024.38	33.94
+99	esg	15	2025.47	0.8
+100	urban carbon emissions	15	2024.13	54.33
+101	environmental quality	15	2024.33	13.13
+102	big data analytics	15	2024.8	5.47
+103	research trends	14	2024.43	6.43
+104	risk management	14	2024.64	4.71
+105	digital banking	14	2025.36	3.0
+106	sustainable urban development	14	2024.64	8.43
+107	smart contracts	14	2024.79	5.5
+108	carbon pricing	13	2025.08	2.46
+109	environmental policy	13	2024.69	20.54
+110	esg performance	13	2025.46	5.23
+111	green development	13	2024.31	13.85
+112	artificial intelligence in finance	13	2025.0	2.77
+113	climate policy	13	2024.54	5.46
+114	environmental disclosure	13	2025.38	7.62
+115	industrialization	13	2024.77	22.08
+116	paris agreement	13	2025.0	4.23
+117	crowdfunding	13	2025.15	3.62
+118	digital financial services	13	2025.46	2.08
+119	green total factor productivity	13	2024.92	12.46
+120	resource efficiency	13	2024.69	12.69
+121	green financial instruments	12	2025.08	2.5
+122	fintech regulation	12	2024.83	8.92
+123	clean energy transition	12	2024.75	1.33
+124	carbon finance	12	2024.42	0.67
+125	pakistan	12	2024.5	5.58
+126	esg disclosure	12	2025.58	1.25
+127	climate resilience	12	2025.17	5.83
+128	environmental governance	12	2024.83	7.83
+129	technological progress	12	2024.0	19.33
+130	energy mix	12	2023.92	23.0
+131	emission reduction	12	2024.67	15.17
+132	pollution reduction	11	2025.09	6.55
+133	corporate social responsibility	11	2024.64	2.0
+134	green banking	11	2025.0	1.36
+135	income inequality	11	2024.36	15.36
+136	climate risk	11	2024.27	13.45
+137	financial stability	11	2024.18	3.73
+138	provincial carbon emissions	11	2023.64	19.36
+139	marketization	11	2024.91	14.45
+140	covid-19 pandemic	11	2024.36	3.45
+141	carbon footprint	11	2025.0	3.18
+142	sdg 13	11	2025.18	5.64
+143	gross domestic product	11	2024.64	2.91
+144	ecological footprint	10	2025.2	4.9
+145	indonesia	10	2024.7	5.8
+146	listed companies	10	2025.1	4.0
+147	natural resources	10	2024.6	10.2
+148	clean energy	10	2025.1	7.1
+149	decentralized finance	10	2025.1	2.1
+150	asymmetric effects	10	2024.2	14.9
+151	environmental pollution	10	2023.5	16.7
+152	machine learning	10	2025.1	6.3
+153	oecd countries	10	2025.4	2.2
+154	resource curse	10	2025.3	1.8
+155	peer-to-peer lending	10	2025.1	3.6
+156	green patents	10	2024.7	11.1
+157	sustainable economic development	10	2024.4	6.6
+158	household carbon emissions	10	2023.7	30.1
+159	cybersecurity	10	2024.8	2.6
+160	information and communication technologies	10	2024.6	5.0
+161	inverted u-shaped relationship	10	2024.2	13.3
+162	central bank digital currency	9	2024.11	2.22
+163	nonlinear effects	9	2024.44	15.44
+164	coupling coordination	9	2024.89	9.11
+165	green loans	9	2025.22	7.89
+166	environmental protection	9	2023.56	80.33
+167	esg reporting	9	2024.78	4.33
+168	ant forest	9	2023.56	6.22
+169	environmental impact of finance	9	2023.78	9.44
+170	digital literacy	9	2025.22	1.11
+171	access to finance	9	2024.78	6.78
+172	environmental performance	9	2024.33	7.56
+173	sustainable agriculture	9	2025.0	13.11
+174	spillover effects	9	2024.33	16.11
+175	heterogeneous effects	9	2024.78	7.0
+176	economic development	9	2024.67	3.44
+177	regulatory fragmentation	9	2025.44	3.44
+178	digital technologies	8	2025.0	14.75
+179	blended finance	8	2025.25	0.0
+180	public-private partnerships	8	2025.12	1.25
+181	unified payments interface	8	2025.5	0.0
+182	fintech innovation	8	2025.0	4.88
+183	carbon credit trading	8	2024.88	9.88
+184	green technology adoption	8	2025.0	3.88
+185	green finance policy	8	2024.38	80.0
+186	sustainable banking	8	2025.12	2.12
+187	digital financial innovation	8	2025.12	4.25
+188	chinese prefecture-level cities	8	2025.38	1.0
+189	sustainable economic growth	8	2024.5	16.5
+190	agricultural finance	8	2023.75	24.5
+191	fintech development	8	2024.12	63.12
+192	cybersecurity risks	8	2024.75	4.25
+193	yangtze river economic belt	8	2024.25	7.38
+194	green consumption	8	2023.5	107.12
+195	electricity consumption	8	2023.88	24.38
+196	mobile banking	8	2025.5	2.38
+197	regional carbon emissions	8	2024.12	21.0
+198	corporate sustainability	8	2025.25	9.5
+199	inclusive growth	8	2025.25	2.88
+200	corporate carbon emissions	7	2025.0	21.14
+201	governance	7	2025.43	0.71
+202	mobile payment	7	2024.0	2.14
+203	smart cities	7	2024.43	6.0
+204	high-quality development	7	2024.29	4.71
+205	nigeria	7	2025.71	0.43
+206	quantile regression	7	2025.0	2.57
+207	natural resource dependence	7	2025.14	4.43
+208	transparency	7	2024.57	3.57
+209	renewable energy transition	7	2025.0	8.43
+210	r&d investment	7	2025.0	5.86
+211	industrial structure optimization	7	2023.71	41.14
+212	transaction costs	7	2025.14	10.43
+213	automated teller machines	7	2023.86	10.57
+214	provincial panel data	7	2023.71	3.29
+215	manufacturing industry	7	2024.14	13.14
+216	digital innovation	7	2025.57	0.71
+217	climate action	7	2025.29	4.71
+218	carbon mitigation	7	2024.14	19.86
+219	net-zero emissions	7	2024.0	4.43
+220	islamic finance	6	2025.17	0.67
+221	sustainability-linked loans	6	2025.5	0.17
+222	green finance regulation	6	2025.5	0.0
+223	capital allocation	6	2025.17	12.67
+224	environmental finance	6	2024.33	8.17
+225	artificial intelligence in banking	6	2025.17	1.33
+226	explainable ai	6	2024.67	1.0
+227	sulfur dioxide emissions	6	2023.17	115.33
+228	carbon offsetting	6	2023.33	1.0
+229	fintech index	6	2025.17	11.17
+230	esg ratings	6	2025.17	8.5
+231	corporate environmental performance	6	2025.5	6.0
+232	institutional theory	6	2025.67	1.17
+233	poverty reduction	6	2024.67	5.5
+234	regulatory compliance	6	2024.0	4.83
+235	eco-efficiency	6	2025.33	3.5
+236	cryptocurrency	6	2023.33	6.83
+237	brics countries	6	2024.67	53.17
+238	south asia	6	2025.33	1.83
+239	carbon disclosure	6	2025.33	0.5
+240	co2 emission reduction	6	2025.0	6.0
+241	rural revitalization	6	2024.17	8.33
+242	carbon sequestration	6	2024.0	2.33
+243	industrial restructuring	6	2024.33	17.83
+244	renewable energy adoption	6	2025.33	7.0
+245	asian countries	6	2024.33	8.5
+246	greenhouse gas emissions reduction	6	2023.0	22.17
+247	sustainability	6	2025.0	4.83
+248	air pollution	6	2023.5	16.0
+249	environmental awareness	6	2023.83	9.5
+250	sub-saharan africa	6	2025.17	3.33
+251	coal consumption	6	2024.17	6.83
+252	population growth	6	2025.5	1.83
+253	sustainability transitions	6	2025.17	14.67
+254	regional economic development	6	2024.17	8.17
+255	digital currency	6	2025.17	0.67
+256	mobile money	6	2024.67	3.33
+257	digital financial infrastructure	6	2025.67	3.0
+258	banking sector	6	2025.17	1.5
+259	russian invasion of ukraine	6	2024.67	6.33
+260	supply chain transparency	6	2025.33	11.17
+261	esg integration	6	2025.17	8.5

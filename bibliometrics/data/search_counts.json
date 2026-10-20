@@ -1,0 +1,23 @@
+{
+ "openalex_search_works": 1700,
+ "works_after_lookups": 1711,
+ "corpus": 972,
+ "version_duplicates_removed": 63,
+ "reference_links": 31181,
+ "refs_cited_2plus": 1166,
+ "refs_resolved": 1165,
+ "by_sublit": {
+  "C": 395,
+  "O": 299,
+  "R": 278
+ },
+ "by_stage1": {
+  "I": 324,
+  "E2": 262,
+  "E3": 224,
+  "unscreened": 125,
+  "E4": 23,
+  "E8": 12,
+  "E5": 2
+ }
+}

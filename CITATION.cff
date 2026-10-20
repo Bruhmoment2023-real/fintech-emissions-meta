@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Does fintech go with lower carbon emissions? A systematic review and meta-analysis of regression estimates"
+type: software
+authors:
+  - family-names: "Solano Paul"
+    given-names: "Sean"
+    affiliation: "Independent researcher"
+license: MIT
+date-released: 2026-10-20
+abstract: "Protocol-registered systematic review and meta-analysis of regression estimates linking fintech and digital finance to carbon emissions, with the extracted estimate dataset, screening log and analysis code."
+repository-code: "https://github.com/Bruhmoment2023-real/fintech-emissions-meta"

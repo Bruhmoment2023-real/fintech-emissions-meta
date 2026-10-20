@@ -1,0 +1,37 @@
+"groups","words","name_full","n","centrality","density","rcentrality","rdensity","name","color","freq"
+1,"fintech 9.3
+green finance 7.7
+financial inclusion 2.9
+blockchain 2.8
+sustainable development 2.7
+green bonds 2
+sustainable finance 1.7
+artificial intelligence 1.6
+sustainable development goals 1.6
+green fintech 1.3","fintech
+green finance
+financial inclusion",108,4.23563850836113,20.487802327316,3,3,"fintech","#E41A1C80",2666
+2,"digital finance 7.1
+digital financial inclusion 5.1
+china 4.5
+regional heterogeneity 2.9
+carbon emission reduction 2.6
+green innovation 2.4
+dual carbon goals 2.4
+carbon neutrality 2.3
+low-carbon transition 2
+carbon intensity 1.8","digital finance
+digital financial inclusion
+china",85,3.18387062293725,14.6284449972447,1,1,"digital finance","#377EB880",2525
+3,"co2 emissions 12.3
+environmental sustainability 4.9
+renewable energy 2.8
+economic growth 2.8
+energy efficiency 1.7
+urbanization 1.6
+environmental degradation 1.4
+renewable energy consumption 1.4
+moderating effect 1.3
+energy consumption 1.2","co2 emissions
+environmental sustainability
+renewable energy",57,3.56065202102021,15.6876751427945,2,2,"co2 emissions","#4DAF4A80",1246

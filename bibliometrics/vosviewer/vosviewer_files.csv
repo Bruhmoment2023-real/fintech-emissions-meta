@@ -1,0 +1,6 @@
+network,items,links,what
+cocitation_references,266,7285,cited references with >= 10 citing corpus documents; link = times cited together (>= 2)
+coauthorship_authors,147,331,authors with >= 3 corpus documents; link = co-authored documents
+keyword_cooccurrence,261,8107,openalex keywords with >= 6 documents; link = documents carrying both
+direct_citation_documents,300,1044,300 most locally cited corpus documents; link = one cites the other
+bibliographic_coupling_documents,300,3747,300 most cited corpus documents with a reference list; link = shared references (>= 3)

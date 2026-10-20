@@ -1,0 +1,33 @@
+Corpus: Fintech/digital finance and emissions literature, OpenAlex-led (972 records) (n = 972 documents, 2016-2026). 
+[main information] 0.9s
+[annual production] 1.5s
+[average citations per year] 0.9s
+[most relevant sources] 0.6s
+[bradford] 1.9s
+[source dynamics] 1.5s
+[authors] 1.3s
+[lotka] 1.6s
+[authors production over time] 1.3s
+[affiliations] 0.6s
+[countries] 0.7s
+[country collaboration map] 2.1s
+[most global cited documents] 0.7s
+[most local cited documents] 1.5s
+[most local cited references] 1.5s
+[rpys] 2.6s
+[keywords] 3.0s
+[trend topics] 3.5s
+[co-occurrence network] 311.0s
+[thematic map] 7.5s
+[thematic evolution] 14.4s
+references: 1165 unique, 1165 cited at least twice
+[filter references] 0.1s
+[co-citation references] 193.7s
+[co-citation sources] 689.2s
+[bibliographic coupling] 194.5s
+[historiograph] 2.6s
+[collaboration authors] 8.1s
+[collaboration institutions] 6.3s
+[collaboration countries] 9.2s
+[three-field plot] 4.5s
+done. failures: 0 

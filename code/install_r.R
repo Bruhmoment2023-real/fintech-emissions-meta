@@ -1,0 +1,8 @@
+.libPaths(c('D:/Research-Publishing/_tools/R-lib', .libPaths()))
+options(repos=c(CRAN='https://cloud.r-project.org'), timeout=600)
+need <- c('metafor','clubSandwich','metadat','numDeriv','mathjaxr','Matrix')
+inst <- rownames(installed.packages())
+todo <- setdiff(need, inst)
+cat('to install:', todo, '\n')
+if (length(todo)) install.packages(todo, lib='D:/Research-Publishing/_tools/R-lib', dependencies=c('Depends','Imports'))
+print(sapply(need, function(p) if (p %in% rownames(installed.packages())) as.character(packageVersion(p)) else 'MISSING'))

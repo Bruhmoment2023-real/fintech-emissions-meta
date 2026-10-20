@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+# R
+.Rhistory
+.RData
+.Rproj.user/
+# environments
+.venv/
+venv/
+env/
+*-venv/
+# raw / large / secrets
+data/raw/*
+*.gguf
+*.bin
+*.safetensors
+.env
+*.env

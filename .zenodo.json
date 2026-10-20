@@ -1,0 +1,20 @@
+{
+  "title": "Does fintech go with lower carbon emissions? A systematic review and meta-analysis of regression estimates",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "license": "MIT",
+  "description": "Protocol-registered systematic review and meta-analysis of regression estimates linking fintech and digital finance to carbon emissions, with the extracted estimate dataset, screening log and analysis code.",
+  "keywords": [
+    "fintech",
+    "digital finance",
+    "carbon emissions",
+    "meta-analysis",
+    "partial correlation",
+    "publication bias"
+  ]
+}

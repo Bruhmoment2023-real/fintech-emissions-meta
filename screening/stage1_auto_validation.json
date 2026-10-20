@@ -1,0 +1,18 @@
+{
+ "hand_screened": 413,
+ "auto_flagged_among_hand": 24,
+ "auto_would_exclude_a_hand_INCLUDE": 2,
+ "details": [
+  [
+   "10.1007/s10668-023-03843-4",
+   "The impact of financial innovation, green energy, and economic growth on transport-based CO2 emissions in India: insights from QARDL approach",
+   "E1"
+  ],
+  [
+   "10.1007/s11356-024-33803-y",
+   "The role of financial innovation in carbon intensity reduction: perspectives from energy structure transition and fiscal policies",
+   "E1"
+  ]
+ ],
+ "agreement_pct_on_flagged": 62.5
+}

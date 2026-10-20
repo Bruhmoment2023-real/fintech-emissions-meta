@@ -1,0 +1,24 @@
+source,query_string,run_utc,hits_reported,records_saved,note
+doaj,"(fintech OR ""fin-tech"" OR ""financial technology"" OR ""digital finance"" OR ""digital financial"" OR ""digital inclusive finance"" OR ""digital financial inclusion"") AND (carbon OR CO2 OR emission OR emissions OR ""greenhouse gas"" OR decarbonization OR decarbonisation) [DOAJ article search, from 2015 by filter in script]",2026-10-16 22:10:01,291,290,
+crossref,"fintech carbon emissions [query.bibliographic, rows 300, from 2015, journal-article]",2026-10-16 22:10:02,589025,300,
+doaj,"fintech AND (carbon OR emissions) [DOAJ article search, from 2015 by filter in script]",2026-10-16 22:10:06,121,121,
+doaj,"""digital finance"" AND (carbon OR emissions) [DOAJ article search, from 2015 by filter in script]",2026-10-16 22:10:08,83,82,
+doaj,"""digital inclusive finance"" AND (carbon OR emissions) [DOAJ article search, from 2015 by filter in script]",2026-10-16 22:10:10,24,24,
+crossref,"digital finance carbon emissions [query.bibliographic, rows 300, from 2015, journal-article]",2026-10-16 22:10:10,1344035,300,
+crossref,"financial technology CO2 emissions [query.bibliographic, rows 300, from 2015, journal-article]",2026-10-16 22:10:18,2247563,300,
+crossref,"digital inclusive finance carbon emissions [query.bibliographic, rows 300, from 2015, journal-article]",2026-10-16 22:10:25,1387842,300,
+crossref,"fintech carbon neutrality [query.bibliographic, rows 300, from 2015, journal-article]",2026-10-16 22:10:32,533708,300,
+crossref,"digital financial inclusion carbon emissions [query.bibliographic, rows 300, from 2015, journal-article]",2026-10-16 22:10:40,1496176,300,
+crossref,"fintech greenhouse gas emissions [query.bibliographic, rows 300, from 2015, journal-article]",2026-10-16 22:10:48,375150,300,
+crossref,"fintech carbon intensity [query.bibliographic, rows 300, from 2015, journal-article]",2026-10-16 22:10:57,614442,300,
+semanticscholar,"fintech carbon emissions [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:14:19,,100,rate limited: partial pages possible
+semanticscholar,"digital finance carbon emissions [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:15:24,,0,rate limited: partial pages possible
+semanticscholar,"financial technology CO2 emissions [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:16:29,,0,rate limited: partial pages possible
+semanticscholar,"digital inclusive finance carbon emissions [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:17:35,,0,rate limited: partial pages possible
+semanticscholar,"fintech carbon neutrality [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:18:39,,0,rate limited: partial pages possible
+semanticscholar,"fintech carbon emissions [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:35:30,,100,rate limited: partial pages possible
+semanticscholar,"digital finance carbon emissions [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:36:35,,0,rate limited: partial pages possible
+semanticscholar,"financial technology CO2 emissions [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:37:41,,0,rate limited: partial pages possible
+semanticscholar,"digital inclusive finance carbon emissions [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:38:55,,100,rate limited: partial pages possible
+semanticscholar,"fintech carbon neutrality [paper/search, limit 100 x up to 3 pages, year 2015-]",2026-10-16 22:40:01,,0,rate limited: partial pages possible
+openalex,"title_and_abstract.search:(fintech OR ""fin-tech"" OR ""financial technology"" OR ""digital finance"" OR ""digital financial"" OR ""digital inclusive finance"" OR ""digital financial inclusion"") AND (carbon OR CO2 OR emission OR emissions OR ""greenhouse gas"" OR decarbonization OR decarbonisation),publication_year:2015-2026 [title_and_abstract.search]",2026-10-16 23:13:39,1701,1701,

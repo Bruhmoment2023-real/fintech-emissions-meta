@@ -1,0 +1,46 @@
+{
+ "records_by_source": {
+  "crossref": 2128,
+  "doaj": 290,
+  "openalex": 1701,
+  "semanticscholar": 199
+ },
+ "records_total": 4318,
+ "unique_after_dedup": 3585,
+ "duplicates_removed": 733,
+ "rule_excluded": {
+  "NO_ABSTRACT_TITLE_LACKS_TERMS": 1211,
+  "not fintech exposure (no fintech/digital-finance term in title or abstract)": 747,
+  "not emissions outcome (no emissions term in title or abstract)": 361,
+  "review or bibliometric (title)": 50,
+  "non-English": 33
+ },
+ "rule_excluded_total": 2402,
+ "hand_screened": 1184,
+ "stage1_by_code": {
+  "I": 336,
+  "E1": 286,
+  "E2": 268,
+  "E3": 256,
+  "E4": 23,
+  "E8": 12,
+  "E5": 3
+ },
+ "stage1_included": 336,
+ "included_with_doi": 330,
+ "included_without_doi": 6,
+ "fulltext_open_access_listed": 211,
+ "closed_or_unknown": 119,
+ "fulltext_retrieved": 117,
+ "fulltext_not_retrieved_open": 94,
+ "stage2_excluded_by_code": {
+  "X3": 27,
+  "X2": 16,
+  "X7": 8,
+  "X4": 9,
+  "X6": 2
+ },
+ "stage2_excluded_total": 62,
+ "studies_extracted": 55,
+ "estimates_extracted": 91
+}
