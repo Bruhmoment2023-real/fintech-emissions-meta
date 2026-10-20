@@ -1,0 +1,14 @@
+Input: results/tables/estimates_with_effect_sizes.csv (SHA-256 9c59d6b43100048d45450a574a62ca69067bb264f130898803ce8123a2d88d12)
+Run: 2026-10-20T10:10Z, Python 3.12.10
+
+primary [55, -0.151, -0.227, -0.073]
+34 with N df [34, -0.119, -0.203, -0.033]
+units-df usable 33
+34 with units df [33, -0.324, -0.529, -0.084]
+China only [40, -0.141, -0.216, -0.064]
+outside China [15, -0.189, -0.397, 0.037]
+clusters 28 29 {'CN-index-province': 20, 'CN-index-city': 9}
+cluster CR1 (index x unit) [28, -0.151, -0.22, -0.08]
+cluster CR1 (one index cluster) [27, -0.151, -0.222, -0.078]
+
+Note: the "units df" row is a cross-check only. Table 3 reports -0.334 (34 studies) from the R script; this script can use 33 of the 34, because one study has too few units for the variance formula, and gives -0.324.
