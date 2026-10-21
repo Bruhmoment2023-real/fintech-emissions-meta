@@ -27,7 +27,7 @@ for l in open('../screening/stage2_decisions.txt', encoding='utf-8'):
         p = l.strip().split('|'); s2[p[0].lower()] = (p[1], p[2] if len(p) > 2 else '')
 est = pd.read_csv('../extraction/estimates.csv', dtype=str) if os.path.exists('../extraction/estimates.csv') else pd.DataFrame(columns=['study_id', 'primary'])
 n_closed = int((q.is_oa.astype(str) != 'True').sum()); n_oa = int((q.is_oa.astype(str) == 'True').sum())
-got = log[log.status == 'ok'].doi.str.lower().tolist(); n_text = len(got)
+got = [x for x in log[log.status == 'ok'].doi.str.lower().tolist() if x in set(q.doi.str.lower())]; n_text = len(got)  # only records still included at stage 1
 n_extracted = est.study_id.nunique()
 ex2 = collections = {}
 import collections as C

@@ -19,9 +19,9 @@
  "hand_screened": 1184,
  "stage1_by_code": {
   "I": 336,
-  "E1": 286,
-  "E2": 268,
-  "E3": 256,
+  "E1": 284,
+  "E2": 269,
+  "E3": 257,
   "E4": 23,
   "E8": 12,
   "E5": 3
@@ -29,18 +29,19 @@
  "stage1_included": 336,
  "included_with_doi": 330,
  "included_without_doi": 6,
- "fulltext_open_access_listed": 211,
- "closed_or_unknown": 119,
+ "fulltext_open_access_listed": 212,
+ "closed_or_unknown": 118,
  "fulltext_retrieved": 117,
- "fulltext_not_retrieved_open": 94,
+ "fulltext_not_retrieved_open": 95,
  "stage2_excluded_by_code": {
-  "X3": 27,
-  "X2": 16,
+  "X3": 26,
+  "X2": 17,
   "X7": 8,
   "X4": 9,
-  "X6": 2
+  "X6": 2,
+  "X1": 1
  },
- "stage2_excluded_total": 62,
- "studies_extracted": 55,
- "estimates_extracted": 91
+ "stage2_excluded_total": 63,
+ "studies_extracted": 54,
+ "estimates_extracted": 89
 }

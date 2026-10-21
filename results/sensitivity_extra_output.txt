@@ -1,14 +1,14 @@
-Input: results/tables/estimates_with_effect_sizes.csv (SHA-256 9c59d6b43100048d45450a574a62ca69067bb264f130898803ce8123a2d88d12)
-Run: 2026-10-21T13:26Z, Python 3.12.10
+Input: results/tables/estimates_with_effect_sizes.csv (SHA-256 69aff436993634a023e6599caaf352ae75e9782bc793e708d7a33c7e8bcc0843)
+Run: 2026-10-21T20:02Z, Python 3.12.10
 
-primary [55, -0.151, -0.227, -0.073]
-34 with N df [34, -0.119, -0.203, -0.033]
-units-df usable 34
-34 with units df [34, -0.334, -0.536, -0.097]
-China only [40, -0.141, -0.216, -0.064]
-outside China [15, -0.189, -0.397, 0.037]
-clusters 28 29 {'CN-index-province': 20, 'CN-index-city': 9}
-cluster CR1 (index x unit) [28, -0.151, -0.22, -0.08]
-cluster CR1 (one index cluster) [27, -0.151, -0.222, -0.078]
+primary [54, -0.155, -0.232, -0.076]
+34 with N df [33, -0.119, -0.207, -0.03]
+units-df usable 33
+34 with units df [33, -0.342, -0.551, -0.092]
+China only [39, -0.147, -0.224, -0.069]
+outside China [15, -0.186, -0.396, 0.043]
+clusters 28 28 {'CN-index-province': 20, 'CN-index-city': 8}
+cluster CR1 (index x unit) [28, -0.155, -0.224, -0.084]
+cluster CR1 (one index cluster) [27, -0.155, -0.228, -0.081]
 
-Note: the "units df" row is a cross-check of the R script's row in Table 3. It uses the same variance as metafor's ZPCOR, 1/(n - m - 2) with n the number of cross-sectional units, and reproduces the R result for all 34 studies (-0.334, -0.536 to -0.097). An earlier version of this script used 1/(n - m - 3), which dropped one study and gave -0.324 for 33.
+Note: the "units df" row is a cross-check of the R script's row in Table 3. It uses the same variance as metafor's ZPCOR, 1/(n - m - 2) with n the number of cross-sectional units, and reproduces the R result for all 33 studies (-0.342, -0.551 to -0.092). The row labels "34 with ..." are fixed strings in the script; after the author check (22 Oct 2026) 33 studies report the number of units.

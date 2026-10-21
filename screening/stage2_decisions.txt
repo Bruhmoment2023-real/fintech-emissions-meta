@@ -40,7 +40,7 @@
 10.54097/7xdymq67|excluded|X7|benchmark table has six columns but five DFI coefficients; text gives 3,300 observations for 30 provinces x 10 years (inconsistent); column mapping unclear
 10.54097/t94xh768|excluded|X3|no regression table or coefficient found in the open text
 10.46557/001c.146305|excluded|X3|dataset or supplementary item, no estimates
-10.7176/rjfa/17.3.07|excluded|X3|panel analysis of carbon disclosure on 120 firm-years; outcome ROA, no fintech-emissions estimate
+# 10.7176/rjfa/17.3.07|excluded|X3|panel analysis of carbon disclosure on 120 firm-years; outcome ROA, no fintech-emissions estimate  [removed 22 Oct 2026: the record (10.7176/rjfa/17-3-07) is excluded at stage 1 after the author check (S31, E2)]
 10.1007/s11356-023-31732-w|excluded|X4|NARDL asymmetric decomposition, no symmetric linear coefficient
 10.25236/ajee.2025.070407|excluded|X2|outcome is economic growth/green-growth variable, not emissions
 10.56506/fmxx6317|excluded|X2|outcome is a low-carbon transition composite index, not emissions
@@ -61,3 +61,6 @@
 10.37676/ekombis.v14i3.9374|excluded|X3|no regression table in the open text
 10.56976/jsom.v4i1.190|excluded|X3|no regression table in the open text
 10.1038/s41598-025-02794-2|excluded|X3|no regression table found in the open text
+10.1038/s41598-024-67315-z|excluded|X2|outcome is urban carbon footprint pressure (emissions relative to vegetation carbon-sink capacity), a footprint/carrying-capacity ratio not on the list of eligible emissions measures; first extracted, removed at the author check (X13, 22 Oct 2026)
+10.3390/su16062351|excluded|X1|exposure is a composite digital-economy index (21 indicators); the 'digital inclusive finance' sub-index used only in a component table (Table 7, further discussion) is built from mobile and broadband subscribers, web diffusion and IT staff, not a finance measure; retained at stage 1 after the author check (S01, 22 Oct 2026)
+# 10.1016/j.joitmc.2025.100518: retained at stage 1 after the author check (S50, 22 Oct 2026); listed open access, but the publisher site returned 403 and the Elsevier API 429 to the fetch script (no other open copy found), so the full text was not retrieved and the record is counted as 'open, not retrieved'

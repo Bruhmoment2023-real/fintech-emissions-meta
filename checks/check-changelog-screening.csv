@@ -1,0 +1,6 @@
+file,check_row,key,first_pass,final
+screening/stage1_decisions.csv,S01,10.3390/su16062351,exclude E1,include I
+screening/stage1_decisions.csv,S50,10.1016/j.joitmc.2025.100518,exclude E2,include I
+screening/stage1_decisions.csv,S31,10.7176/rjfa/17-3-07,include I,exclude E2
+screening/stage1_decisions.csv,S42,10.1002/sd.3502,include I,exclude E3
+screening/stage1_decisions.csv,S29,10.36871/ek.up.p.r.2026.04.05.014,exclude E1,exclude E2

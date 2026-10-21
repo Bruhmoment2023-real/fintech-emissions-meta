@@ -1,0 +1,63 @@
+# doi|status|code|note   status: extracted | excluded | no_open_text | pending ; codes: X1 no fintech exposure as regressor; X2 outcome not emissions; X3 no usable coefficient+SE/t (PVAR, Granger, SEM paths, ML, bibliometric, theory); X4 interaction only; X5 duplicate sample/version; X6 retracted; X7 no usable N
+10.3390/en18020291|excluded|X3|bibliometric review (Scopus/Biblioshiny)
+10.3390/en19143428|excluded|X2|outcome is energy transition depth of renewable firms; policy-pilot dummy
+10.1007/s43621-026-02982-8|excluded|X3|SEM standardized path estimates with p-values only; inequality, poverty and CO2 outcomes
+10.1371/journal.pone.0307328|excluded|X7|DFI and agricultural carbon emissions intensity gap (Dagum Gini) with quantile models; printed significance stars are inconsistent with the bracketed values (0.232*** with 0.149), so no usable SE
+10.25236/ajbm.2024.060837|excluded|X4|baseline model contains df, rc and rc x df in every column: the df coefficient is conditional on the interaction
+10.1007/s43621-026-03977-1|excluded|X3|PLS-SEM path coefficients on a survey (corporate carbon performance, fintech adoption as a path)
+10.1016/j.jik.2024.100476|excluded|X3|support vector quantile regression by year; no coefficient with SE
+10.1038/s41598-024-81712-4|excluded|X3|MMQR table has no standard errors; FNT*URB interaction in all models; AMG table prints SE inconsistent with p-values
+10.1177/00368504241278823|excluded|X7|IV-GMM for 52 developing countries 2010-2019; number of observations not printed (balanced N cannot be assumed)
+10.1371/journal.pone.0257498|excluded|X2|outcomes are SO2 and COD (pollutants), not CO2
+10.1371/journal.pone.0288072|excluded|X6|retracted by PLOS One in 2025 (retraction notice 10.1371/journal.pone.0325328 in the screening set)
+10.3389/fenvs.2024.1499558|excluded|X3|MMQR results with no standard errors; outcomes carbon footprint and coastal water quality
+10.3389/fenvs.2025.1571854|excluded|X6|retracted (header RETRACTED, 05 Aug 2026)
+10.3389/fpubh.2022.973644|excluded|X4|cubic specification (digital, digital^2, digital^3) in every column; manufacturing firms' carbon intensity
+10.3389/fenvs.2025.1668815|excluded|X3|FMOLS/DOLS coefficients with p-values printed as 0.000 only (no SE or t); G-type panel
+10.3390/economies14100455|excluded|X7|regression table is scrambled in the open text (twelve model columns, DFI row shows only three coefficients with t values; no N)
+10.3390/land13081127|excluded|X3|benchmark Tobit table prints stars without standard errors or t values
+10.3390/su14148340|excluded|X4|benchmark columns contain DF and a squared term (EKC-type quadratic)
+10.3390/su16156407|excluded|X4|baseline columns contain DIF and DIF squared (carbon emission intensity)
+10.34659/eis.2025.93.2.1156|excluded|X3|panel causality and cointegration (six South Asian countries, 114 observations); no coefficient table for DFI on GHG found
+10.47191/ijmei.v11i9.08|excluded|X2|outcome is urban green and low-carbon development efficiency (GML index), not emissions
+10.54254/2754-1169/2024.19442|excluded|X2|outcome is carbon emission efficiency, and baseline columns carry a squared term
+10.57233/gujaf.v6i1.06|excluded|X4|baseline table has no fintech variable; fintech enters only with the NR x FT interaction (coefficient conditional)
+10.62177/apemr.v2i6.1007|excluded|X3|no regression table, coefficients or sample in the open text (descriptive/theoretical analysis)
+10.62381/e244518|excluded|X3|no regression table or coefficients in the open text (descriptive/mechanism discussion)
+10.3389/fmars.2025.1605039|excluded|X3|spatial MMQR on tourism flows and marine pollution; no fintech-to-emissions coefficient with SE in the tables read
+10.1186/s43093-026-00831-8|excluded|X3|ARDL-PMG and GMM results printed as coefficients with stars and interpretive text; no SE or t
+10.1016/j.jik.2024.100484|excluded|X2|outcomes are carbon productivity (GDP per unit of carbon) and energy productivity
+10.1186/s43093-026-00876-9|excluded|X2|outcome is the green transport industry, not emissions
+10.18402/resci.2023.03.10|excluded|X7|spatial model columns cannot be matched to variable labels in the open text (mixed Chinese-English layout)
+10.30955/gnj.06227|excluded|X7|number of observations not printed; sample period given inconsistently (2011-2020 vs 2011-2022)
+10.25236/ajbm.2023.052622|excluded|X3|SDM described but no coefficient table for DIF on carbon emissions found in the open text (Moran's I tables only)
+10.32479/ijeep.19297|excluded|X7|GLM table lists CO2 and FINTECH among regressors with an unidentified dependent variable
+10.3389/fenvs.2026.1762970|excluded|X2|outcome is multifactor productivity (environmental sustainability index), not emissions
+10.3390/e28010006|excluded|X2|outcome is an enterprise carbon neutrality development index
+10.3390/su16073084|excluded|X2|outcome is SDG performance of African economies
+10.3390/su17010050|excluded|X2|outcome is ecological footprint (G20); fintech coefficient reported without a CO2 outcome
+10.3390/systems13060400|excluded|X7|FMOLS with t values for CO2 per capita in OECD countries, but number of observations/countries not printed
+10.54097/7xdymq67|excluded|X7|benchmark table has six columns but five DFI coefficients; text gives 3,300 observations for 30 provinces x 10 years (inconsistent); column mapping unclear
+10.54097/t94xh768|excluded|X3|no regression table or coefficient found in the open text
+10.46557/001c.146305|excluded|X3|dataset or supplementary item, no estimates
+10.7176/rjfa/17.3.07|excluded|X3|panel analysis of carbon disclosure on 120 firm-years; outcome ROA, no fintech-emissions estimate
+10.1007/s11356-023-31732-w|excluded|X4|NARDL asymmetric decomposition, no symmetric linear coefficient
+10.25236/ajee.2025.070407|excluded|X2|outcome is economic growth/green-growth variable, not emissions
+10.56506/fmxx6317|excluded|X2|outcome is a low-carbon transition composite index, not emissions
+10.3390/su17219556|excluded|X4|ARDL error-correction form with lagged-level and short-run terms, no single comparable long-run coefficient
+10.64534/commer.2024.056|excluded|X3|GMM table prints coefficients and stars only, no SE or t
+10.56946/jeee.v4i2.741|excluded|X2|outcome is ecological footprint, not carbon emissions
+10.36346/sarjbm.2025.v07i06.002|excluded|X2|outcomes are green technology innovation, energy intensity and low-carbon development of manufacturing, not emissions
+10.3390/su18136737|excluded|X4|FMOLS/DOLS standard errors printed as 0.000; fintech enters with an interaction term; ARDL-PMG long run not a clean main effect
+10.61506/01.00185|excluded|X3|literature review with no regression estimates
+10.22214/ijraset.2026.77021|excluded|X2|firm-level survey and structural model of Green FinTech adoption; outcome not carbon emissions
+10.47067/real.v6i3.314|excluded|X3|no regression table in the open text
+10.61506/01.00509|excluded|X3|no regression table in the open text
+10.25236/ajbm.2024.060213|excluded|X3|no regression table in the open text
+10.52783/eel.v14i3.2037|excluded|X4|VECM short-run adjustment only, no comparable fintech coefficient
+10.54097/xv396k88|excluded|X3|fsQCA necessity and sufficiency analysis, no regression coefficients
+10.3390/su15021314|excluded|X2|exposure is financial marketization (financial structure), not fintech
+10.2991/978-94-6463-042-8_114|excluded|X3|two-way FE coefficient printed with stars only, no SE or t
+10.37676/ekombis.v14i3.9374|excluded|X3|no regression table in the open text
+10.56976/jsom.v4i1.190|excluded|X3|no regression table in the open text
+10.1038/s41598-025-02794-2|excluded|X3|no regression table found in the open text

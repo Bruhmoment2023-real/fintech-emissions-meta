@@ -1,0 +1,23 @@
+check_row,doi,primary,field,first_pass,final,reason
+X18,10.3389/fenvs.2025.1549623,1,k_reg,,15,controls identifiable: Lnif + 14 first-order controls
+X18 (same table),10.3389/fenvs.2025.1549623,0,k_reg,,15,same control block as col1 plus FE
+X25,10.1371/journal.pone.0302826,1,k_reg,5,4,col3 has 4 regressors (lngdp lnwage STR + DIFI)
+X26,10.3389/fenvs.2022.1045878,1,k_reg,9,8,8 regressors; 9 counted the constant
+X31,10.1002/bse.3778,1,model_label,"Table 3 col2 lnEmission, lnFintech with firm and year FE, no controls","Table 3 col1 lnEmission, lnFintech only",first column is usable: PDF page image shows -0.6638*** (0.0040) with the minus sign; fallback not needed
+X31,10.1002/bse.3778,1,b_str,0.0189***,0.6638***,first column is usable: PDF page image shows -0.6638*** (0.0040) with the minus sign; fallback not needed
+X31,10.1002/bse.3778,1,se_str,(0.0064),(0.0040),first column is usable: PDF page image shows -0.6638*** (0.0040) with the minus sign; fallback not needed
+X31,10.1002/bse.3778,1,notes,primary_fallback: first column's sign is not recoverable from the open text (minus signs missing in Table 3; authors state a negative effect in column 4); SIGN_NEG applied from the authors' text 'Fintech cuts CCEs ... decrease by 2.07%'; N from Table 2,SIGN_NEG: minus sign of col1 visible in the PDF page image (author check X31) but missing from the text layer; first pass had used col2 as primary_fallback; N from Table 2 (not printed in the crop),first column is usable: PDF page image shows -0.6638*** (0.0040) with the minus sign; fallback not needed
+X36,10.23977/agrfem.2026.090102,1,model_label,"Table 2 col1 ACE, DIF with controls","Table 2 col1 ACE, DIF only",text says col1 has no controls; intercept confirms DIF is the only regressor
+X36,10.23977/agrfem.2026.090102,1,k_reg,,1,text says col1 has no controls; intercept confirms DIF is the only regressor
+X46,10.1007/s11356-022-24748-1,1,k_reg,,1,col1 is the model without covariables (text); medium confidence
+X49,10.64534/commer.2023.072,1,n_obs,3162,1890,"POLS column prints Obs. 1,890 (3,162 was the descriptive count of EnvD); 7 printed regressors"
+X49,10.64534/commer.2023.072,1,k_reg,,7,"POLS column prints Obs. 1,890 (3,162 was the descriptive count of EnvD); 7 printed regressors"
+X49 (same paper),10.64534/commer.2023.072,0,n_obs,3162,857,"Table 4 POLS column prints Obs. 857 (3,162 was the descriptive count)"
+X50,10.32479/ijeep.16097,1,n_obs,600,570,6 printed regressors; lagged DV leaves 19 usable years: 30 x 19 = 570 (N_inferred)
+X50,10.32479/ijeep.16097,1,k_reg,,6,6 printed regressors; lagged DV leaves 19 usable years: 30 x 19 = 570 (N_inferred)
+X50 (same table),10.32479/ijeep.16097,0,n_obs,600,570,same sample and regressors as the DCE column
+X50 (same table),10.32479/ijeep.16097,0,k_reg,,6,same sample and regressors as the DCE column
+X51,10.71317/rjsa.004.02.0794,1,k_reg,,4,"4 long-run regressors (Fintech Index, Green Energy, Globalization, FDI)"
+X54,10.3390/su15129327,1,k_reg,3,4,"Table 6 has 4 regressors (ATMN, IU, GDP, REC)"
+X13,10.1038/s41598-024-67315-z,1,row removed,"Table 2 col1 carbon footprint pressure, FE, DIF only",,"outcome is carbon footprint pressure (emissions/vegetation sink capacity), not an eligible emissions measure: stage-2 X2"
+X13,10.1038/s41598-024-67315-z,0,row removed,"Table 2 col2 carbon footprint pressure, FE, five controls",,"outcome is carbon footprint pressure (emissions/vegetation sink capacity), not an eligible emissions measure: stage-2 X2"

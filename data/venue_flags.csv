@@ -40,7 +40,7 @@ key,venue,publisher,flag,detail,extracted
 10.1016/j.chieco.2022.101872,China Economic Review,Elsevier BV,0,,0
 10.1177/00368504241278823,Science Progress,SAGE Publishing,0,,0
 10.3389/fpubh.2022.973644,Frontiers in Public Health,Frontiers Media S.A.,0,,0
-10.1038/s41598-024-67315-z,Scientific Reports,Nature Portfolio,0,,1
+10.1038/s41598-024-67315-z,Scientific Reports,Nature Portfolio,0,,0
 10.1088/2515-7620/add3d8,Environmental Research Communications,IOP Publishing,0,,0
 10.1016/j.irfa.2025.104745,International Review of Financial Analysis,Elsevier BV,0,,0
 10.1080/17565529.2025.2452435,Climate and Development,Informa UK Limited,0,,0
@@ -162,7 +162,6 @@ t:research on impact of digital finance on carbon emission reduction in animal h
 10.3390/e28010006,Entropy,MDPI AG,0,,0
 10.1080/1540496x.2026.2691890,Emerging Markets Finance and Trade,Informa UK Limited,0,,0
 10.23977/agrfem.2026.090102,Agricultural & Forestry Economics and Management,"Clausius Scientific Press, Inc.",0,,1
-10.7176/rjfa/17-3-07,Research Journal of Finance and Accounting,"International Institute for Science, Technology and Education",1," | ('international institute for science technology and education', 'exact', ['kscien_non_recommended'])",0
 10.1016/j.sftr.2024.100217,Sustainable Futures,Elsevier BV,0,,0
 10.1016/j.scs.2025.106982,Sustainable Cities and Society,Elsevier BV,0,,0
 10.1016/j.wds.2023.100096,World Development Sustainability,Elsevier,0,,0
@@ -188,6 +187,7 @@ t:research on impact of digital finance on carbon emission reduction in animal h
 10.1016/j.jik.2024.100484,Journal of Innovation & Knowledge,Elsevier,0,,0
 10.1016/j.jenvman.2025.125644,Journal of Environmental Management,Elsevier BV,0,,0
 10.1007/s11356-022-21780-z,Environmental Science and Pollution Research,Springer Science and Business Media LLC,0,,0
+10.1016/j.joitmc.2025.100518,"Journal of Open Innovation: Technology, Market and Complexity",Elsevier,0,,0
 10.1016/j.scs.2024.105722,Sustainable Cities and Society,Elsevier BV,0,,0
 10.1186/s43093-026-00876-9,Future Business Journal,SpringerOpen,0,,0
 10.1057/s41599-024-03354-1,Humanities and Social Sciences Communications,Springer Science and Business Media LLC,0,,1
@@ -234,6 +234,7 @@ t:balancing economic growth and environmental sustainability in developing count
 10.1007/s11356-022-24748-1,Environmental Science and Pollution Research,Springer Science+Business Media,0,,1
 10.1007/s11356-024-32588-4,Environmental Science and Pollution Research,Springer Science+Business Media,0,,0
 10.1108/cfri-03-2024-0083,China Finance Review International,Emerald Publishing Limited,0,,0
+10.3390/su16062351,Sustainability,Multidisciplinary Digital Publishing Institute,0,,0
 10.3390/su17219556,Sustainability,Multidisciplinary Digital Publishing Institute,0,,0
 10.2139/ssrn.6022594,SSRN Electronic Journal,RELX Group (Netherlands),0,,0
 10.52567/pjsr.v4i04.847.,Pakistan Journal of Social Research,,0,,0
@@ -277,7 +278,6 @@ t:financial technology and environmental sustainability in nigeria an empirical 
 10.2139/ssrn.6659410,SSRN Electronic Journal,RELX Group (Netherlands),0,,0
 10.1007/s11356-023-31732-w,Environmental Science and Pollution Research,Springer Science+Business Media,0,,0
 10.1007/978-3-031-60324-2_11,Lecture notes in business information processing,Springer Science+Business Media,0,,0
-10.1002/sd.3502,Sustainable Development,Wiley,0,,0
 10.3390/su18136737,Sustainability,Multidisciplinary Digital Publishing Institute,0,,0
 10.2139/ssrn.7597661,SSRN Electronic Journal,RELX Group (Netherlands),0,,0
 10.22214/ijraset.2026.77021,International Journal for Research in Applied Science and Engineering Technology,International Journal for Research in Applied Science and Engineering Technology (IJRASET),1,"('international journal for research in applied science and engineering technology', 'exact', ['kscien_non_recommended']) | ('international journal for research in applied science and engineering technology ijraset', 'exact', ['beall_standalone_journals'])",0

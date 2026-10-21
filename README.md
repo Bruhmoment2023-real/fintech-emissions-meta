@@ -6,7 +6,7 @@ Sean Solano Paul, Independent researcher, Bengaluru, India. Funding: none. Compe
 
 ## Summary
 
-A fast-growing literature, mostly from China since 2021, reports that fintech and digital finance reduce carbon emissions. This repository contains the protocol (written and SHA-256 hashed before screening, with amendments), the screening log, the dataset of 91 main-table regression estimates from 55 studies (each checked against its source table and converted to partial correlations), the meta-analysis code (R, metafor and clubSandwich) and the results. Searches covered OpenAlex, Crossref, DOAJ and Semantic Scholar (3,585 unique records); 117 open full texts were read. The pre-specified pooled partial correlation was r = -0.151 (95% CI -0.227 to -0.073), with extreme heterogeneity and signs of small-study effects.
+A fast-growing literature, mostly from China since 2021, reports that fintech and digital finance reduce carbon emissions. This repository contains the protocol (written and SHA-256 hashed before screening, with amendments), the screening log, the dataset of 89 main-table regression estimates from 54 studies (each checked against its source table and converted to partial correlations), the meta-analysis code (R, metafor and clubSandwich) and the results. Searches covered OpenAlex, Crossref, DOAJ and Semantic Scholar (3,585 unique records); 117 open full texts were read. The pre-specified pooled partial correlation was r = -0.155 (95% CI -0.232 to -0.076), with extreme heterogeneity and mixed evidence of small-study effects. A non-blind author check of a sample of screening decisions and of every primary estimate was applied on 22 Oct 2026 (`checks/`, amendment 11).
 
 ## Repository layout
 
@@ -23,7 +23,7 @@ bibliometrics/   literature map: scripts (Python and R), tables, figures, VOSvie
 ## How to reproduce
 
 - Python 3.12 (`pip install -r requirements.txt`) and R 4.5 with `metafor` 5.2.1 and `clubSandwich` 0.7.0. The bibliometrics scripts also use `bibliometrix`, `igraph`, `Matrix`, `data.table`, `jsonlite`, `ggplot2`, `dplyr`, `tidyr`, `stringr`, `ggrepel`.
-- Order (see `docs/appendix/rerun.ps1`): `code/build_estimates.py` (verifies each hand-coded entry against the full text and builds the analysis file), `code/build_studies.py`, then from `code/`: `Rscript meta_analysis.R ../extraction/estimates.csv ../results/`, then `prisma14.py` and `venue_flags_all.py`. Four extra Table 3 sensitivity rows (same 34 studies with standard df, China only, outside China, clustered) come from `code/sensitivity_extra.py` (standard library only), run from the repo root as `python -I code/sensitivity_extra.py results/tables/estimates_with_effect_sizes.csv`; its saved output is `results/sensitivity_extra_output.txt`.
+- Order (see `docs/appendix/rerun.ps1`): `code/build_estimates.py` (verifies each hand-coded entry against the full text and builds the analysis file), `code/build_studies.py`, then from `code/`: `Rscript meta_analysis.R ../extraction/estimates.csv ../results/`, then `prisma14.py` and `venue_flags_all.py`. Four extra Table 3 sensitivity rows (same 33 studies with standard df, China only, outside China, clustered) come from `code/sensitivity_extra.py` (standard library only), run from the repo root as `python -I code/sensitivity_extra.py results/tables/estimates_with_effect_sizes.csv`; its saved output is `results/sensitivity_extra_output.txt`.
 - The scripts were written against a working tree rooted at `D:\Research-Publishing\14-fintech-emissions-meta`; adjust the root paths at the top of the scripts. Steps that verify entries against full text need the full texts, which are not redistributed (fetch them with `code/fetch_fulltext.py` from `screening/fulltext_queue.csv`); `extraction/estimates.csv` and the R step run without them.
 - Search and download steps (`search14.py`, `fetch_fulltext.py`) use public APIs and are rate-limited.
 
@@ -32,7 +32,7 @@ bibliometrics/   literature map: scripts (Python and R), tables, figures, VOSvie
 | Source | Used for | Terms |
 |---|---|---|
 | OpenAlex, Crossref, DOAJ, Semantic Scholar APIs | search and screening metadata (titles, DOIs, venues, years) | open metadata; abstracts removed from the released corpus |
-| 55 included studies | regression coefficients, standard errors, sample sizes transcribed with table/page pointers | publisher/author copyright in the papers; only numbers and pointers released |
+| 54 included studies | regression coefficients, standard errors, sample sizes transcribed with table/page pointers | publisher/author copyright in the papers; only numbers and pointers released |
 | Beall's List archive, Kscien non-recommended lists | venue warning flags (`data/venue_flags.csv`) | third-party lists, parsed by code; pages not redistributed |
 
 No Scopus or Web of Science data were used; the search strings in `bibliometrics/scopus-queries.md` were not run.
