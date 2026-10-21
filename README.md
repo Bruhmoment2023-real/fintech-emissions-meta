@@ -1,5 +1,7 @@
 # Does fintech go with lower carbon emissions? A systematic review and meta-analysis of regression estimates
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537682 (this DOI always points to the latest version).
+
 Sean Solano Paul, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
 ## Summary

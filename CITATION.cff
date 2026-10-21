@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "Does fintech go with lower carbon emissions? A systematic review and meta-analysis of regression estimates"
+doi: 10.5281/zenodo.23537682
 type: software
 authors:
   - family-names: "Solano Paul"
