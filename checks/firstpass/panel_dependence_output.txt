@@ -1,0 +1,41 @@
+metafor 5.2.1 | clubSandwich 0.7.0 | R version 4.5.3 (2026-03-11 ucrt) 
+primary rows 55 | main-table rows 91 | coding rows 55 
+n_obs mismatches between sheets: 0 
+rule A panels 18 | shared: 42 
+
+             CN-city              CN-firm          CN-province 
+                  13                    4                   21 
+     Pakistan-annual South-Asia-countries 
+                   2                    2 
+rule B panels 11 | shared: 46 
+
+Asia-countries          China 
+             6             40 
+rule A kept rows 18 | kept row not the largest N: 0 | panels with !=1 kept: 0 
+rule B kept rows 11 | kept row not the largest N: 0 | panels with !=1 kept: 0 
+primary (reproduces Table 3)                            k= 55 r=-0.151 (-0.227 to -0.073) p=0.000
+multilevel, CR2 by study (reproduces Section 3.2): r=-0.156 (-0.223 to -0.089)
+clustered row of Table 3:   CR1 clusters=28 r=-0.151 (-0.220 to -0.080)
+one per panel, largest N, rule A                        k= 18 r=-0.150 (-0.329 to 0.041) p=0.115
+   random draws rule A: median -0.125, 2.5%-97.5% -0.168 to -0.086, draws with CI excluding 0: 0
+   rule A   CR1 clusters=18 r=-0.151 (-0.221 to -0.079)
+   CR2 rule A: r=-0.151 (-0.250 to -0.049) df=3.7
+   ML panel+estimate rule A: r=-0.136 (-0.283 to 0.017) p=0.077 sigma2=0.049, 0.059
+   ML panel+study+estimate rule A (k=91): r=-0.152 (-0.308 to 0.013) p=0.069
+one per panel, largest N, rule B                        k= 11 r=-0.092 (-0.369 to 0.199) p=0.500
+   random draws rule B: median -0.135, 2.5%-97.5% -0.206 to -0.079, draws with CI excluding 0: 0
+   rule B   CR1 clusters=11 r=-0.151 (-0.215 to -0.086)
+   CR2 rule B: r=-0.151 (-0.317 to 0.024) df=1.6
+   ML panel+estimate rule B: r=-0.139 (-0.392 to 0.133) p=0.280 sigma2=0.116, 0.056
+   ML panel+study+estimate rule B (k=91): r=-0.158 (-0.409 to 0.115) p=0.225
+published multilevel CR2: r=-0.156 (-0.223 to -0.089)
+studies testing a channel: 35 | of them Chinese: 35 | Chinese not testing: 5 | non-Chinese testing: 0 
+channel tested                                          k= 35 r=-0.159 (-0.240 to -0.077) p=0.000
+no channel tested                                       k= 20 r=-0.140 (-0.307 to 0.034) p=0.109
+Chinese, no channel tested                              k=  5 r=-0.005 (-0.265 to 0.257) p=0.964
+CN-province                                             k= 21 r=-0.189 (-0.327 to -0.043) p=0.014
+   range r -0.702 to 0.509, negative 17 of 21, I2 96.94%, tau2 0.102
+CN-city                                                 k= 13 r=-0.128 (-0.171 to -0.084) p=0.000
+   range r -0.242 to -0.026, negative 13 of 13, I2 92.73%, tau2 0.005
+CN-firm                                                 k=  4 r=-0.013 (-0.039 to 0.012) p=0.190
+   range r -0.039 to -0.003, negative 4 of 4, I2 89.35%, tau2 0.000
