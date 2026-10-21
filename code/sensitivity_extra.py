@@ -71,8 +71,8 @@ pu = [x for x in rows if x['n_units'] not in ('', 'NA') and float(x['n_units']) 
 print('34 with N df', [round(z, 3) for z in re_kh([F(x, 'zi') for x in pu], [F(x, 'vi') for x in pu])[:4]])
 def zu(x):
     t = F(x, 't_use'); df = float(x['n_units']) - F(x, 'k_used') - 1
-    r = t / math.sqrt(t * t + df); return math.atanh(r), 1 / (float(x['n_units']) - F(x, 'k_used') - 3)
-pu2 = [x for x in pu if float(x['n_units']) - F(x, 'k_used') - 3 > 0]
+    r = t / math.sqrt(t * t + df); return math.atanh(r), 1 / (float(x['n_units']) - F(x, 'k_used') - 2)
+pu2 = [x for x in pu if float(x['n_units']) - F(x, 'k_used') - 2 > 0]
 print('units-df usable', len(pu2))
 zz = [zu(x) for x in pu2]
 print('34 with units df', [round(z, 3) for z in re_kh([a for a, b in zz], [b for a, b in zz])[:4]])

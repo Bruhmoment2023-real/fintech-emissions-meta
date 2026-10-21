@@ -26,7 +26,7 @@ d$t_use <- ifelse(!is.na(d$t), d$t, ifelse(!is.na(d$b) & !is.na(d$se_use), d$b /
 d <- d[!is.na(d$t_use) & !is.na(d$n_obs) & d$df > 3, ]
 d$ri <- d$t_use / sqrt(d$t_use^2 + d$df)           # partial correlation; negative = more fintech, less emissions
 d$se_r <- sqrt((1 - d$ri^2) / d$df)
-es <- escalc(measure = 'ZPCOR', ti = d$t_use, ni = d$n_obs, mi = d$k_used, data = d)   # Fisher z of partial r, var = 1/(ni - mi - 3)
+es <- escalc(measure = 'ZPCOR', ti = d$t_use, ni = d$n_obs, mi = d$k_used, data = d)   # Fisher z of partial r, var = 1/(ni - mi - 2)
 d$zi <- es$yi; d$vi <- es$vi
 prim <- d[d$primary == 1, ]
 cat('\nEstimates usable:', nrow(d), '| primary (one per study-sample):', nrow(prim), '| studies:', length(unique(prim$study_id)), '\n')
